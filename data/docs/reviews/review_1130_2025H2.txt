@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Nakul Lal (ID 1130)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Nakul's performance this cycle was outstanding.
+Nakul contributed to the Vega Migration project for EduSpark, working closely with Siddharth Goswami, Kashvi Lanka.
+Their work with C++ on this project was highly appreciated.
+Key strengths observed: problem solving and adaptability.
+Recommendation: consider for additional responsibilities and promotion in the next cycle.
+Note: Nakul has expressed interest in moving to the Marketing team.

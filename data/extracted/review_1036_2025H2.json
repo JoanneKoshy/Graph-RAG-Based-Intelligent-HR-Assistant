@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1036_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Jyoti Balay",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Analytics Platform"
+  },
+  {
+   "source": "Jyoti Balay",
+   "relation": "COLLABORATED_WITH",
+   "target": "Januja Amble"
+  },
+  {
+   "source": "Jyoti Balay",
+   "relation": "COLLABORATED_WITH",
+   "target": "Henry Loke"
+  },
+  {
+   "source": "Jyoti Balay",
+   "relation": "USED_SKILL",
+   "target": "JavaScript"
+  },
+  {
+   "source": "Jyoti Balay",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Jyoti Balay",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  }
+ ]
+}

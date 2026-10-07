@@ -1,0 +1,9 @@
+PROJECT REPORT: Cobalt Migration
+Client: MetroMart | Owning department: Data Science | Status: Ongoing
+Start date: 2025-11-17
+
+The Cobalt Migration project is led by Samar Dubey. The technology stack includes SQL, Tableau, Machine Learning, Docker.
+Team members: Eesha Barman (Contributor); Fitan Raghavan (Analyst); Samar Dubey (Project Lead); Advaith Karpe (Analyst).
+The project is currently about 43% complete.
+The main risk identified was scope creep from late client requirements.
+Special recognition goes to Advaith Karpe for going beyond their assigned role.

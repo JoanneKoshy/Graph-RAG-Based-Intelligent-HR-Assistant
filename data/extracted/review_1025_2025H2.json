@@ -1,0 +1,26 @@
+{
+ "doc_id": "review_1025_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Chaaya Kaul",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Chaaya Kaul",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Chaaya Kaul",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  },
+  {
+   "source": "Chaaya Kaul",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  }
+ ]
+}

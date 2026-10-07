@@ -1,0 +1,9 @@
+PROJECT REPORT: Phoenix CRM Revamp
+Client: GreenGrid Energy | Owning department: Quality Assurance | Status: Completed
+Start date: 2025-01-02
+
+The Phoenix CRM Revamp project is led by Chavvi Bhat. The technology stack includes Selenium, Manual Testing, Performance Testing, Python.
+Team members: Yashodhara D’Alia (Contributor); Upasna Pandya (Reviewer); Chavvi Bhat (Project Lead); Libni Tiwari (Tester); Upkaar Dara (Analyst); Hredhaan Toor (Contributor).
+The project was delivered on 2025-08-24 and the client feedback was excellent.
+The main risk identified was data quality issues in the source systems.
+Special recognition goes to Chavvi Bhat for going beyond their assigned role.

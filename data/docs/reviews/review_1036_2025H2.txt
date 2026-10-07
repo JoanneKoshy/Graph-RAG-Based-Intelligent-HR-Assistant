@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Jyoti Balay (ID 1036)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Jyoti's performance this cycle was satisfactory.
+Jyoti contributed to the Echo Analytics Platform project for MetroMart, working closely with Januja Amble, Henry Loke.
+Their work with JavaScript on this project was adequate but needs more depth.
+Key strengths observed: leadership and teamwork.
+Areas for improvement: deeper technical ownership and documentation.

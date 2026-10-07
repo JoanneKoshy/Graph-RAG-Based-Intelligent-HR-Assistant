@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Aadhya Ramakrishnan (ID 1114)
+Designation: Senior Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Aadhya's performance this cycle was satisfactory.
+Aadhya contributed to the Nimbus Mobile App project for GreenGrid Energy, working closely with Zarna Anand, Edhitha Dave.
+Their work with Docker on this project was adequate but needs more depth.
+Key strengths observed: communication and time management.
+Areas for improvement: deeper technical ownership and documentation.

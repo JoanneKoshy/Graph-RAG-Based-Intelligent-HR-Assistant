@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Diya Radhakrishnan (ID 1020)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Diya's performance this cycle was satisfactory.
+Diya contributed to the Vega Dashboard project for MetroMart, working closely with Atharv Chanda, Henry Krish.
+Their work with JavaScript on this project was adequate but needs more depth.
+Key strengths observed: communication and client handling.
+Areas for improvement: deeper technical ownership and documentation.

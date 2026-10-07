@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C033",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Vedhika Gopal",
+   "relation": "USED_SKILL",
+   "target": "Employee Relations"
+  },
+  {
+   "source": "Vedhika Gopal",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "Vedhika Gopal",
+   "relation": "USED_SKILL",
+   "target": "Recruitment"
+  },
+  {
+   "source": "Vedhika Gopal",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Vedhika Gopal",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "Vedhika Gopal",
+   "relation": "WORKED_AT",
+   "target": "Infosys"
+  }
+ ]
+}

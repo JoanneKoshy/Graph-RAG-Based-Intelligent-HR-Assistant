@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Upasna Pandya (ID 1095)
+Designation: Senior QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Upasna's performance this cycle was satisfactory.
+Upasna contributed to the Phoenix CRM Revamp project for GreenGrid Energy, working closely with Yashodhara D’Alia, Chavvi Bhat.
+Their work with Python on this project was adequate but needs more depth.
+Key strengths observed: adaptability and client handling.
+Upasna has been mentoring Liam Boase, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

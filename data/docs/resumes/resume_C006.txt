@@ -1,0 +1,18 @@
+TIMOTHY KALA
+Applying for: Data Scientist
+Email: timothy.kala@mail.com | Gulbarga
+
+SUMMARY
+2 years of experience, most recently at IBS Software.
+
+SKILLS
+Docker, SQL, Machine Learning
+
+EDUCATION
+BBA, NIT Calicut
+
+EXPERIENCE
+- IBS Software: 2 years, focused on Docker and SQL.
+
+ACHIEVEMENTS
+- Published a paper at a national conference.

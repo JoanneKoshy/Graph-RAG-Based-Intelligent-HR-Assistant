@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C019",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "XAVIER KHARE",
+   "relation": "WORKED_AT",
+   "target": "IBS Software"
+  },
+  {
+   "source": "XAVIER KHARE",
+   "relation": "STUDIED_AT",
+   "target": "CUSAT"
+  },
+  {
+   "source": "XAVIER KHARE",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "XAVIER KHARE",
+   "relation": "USED_SKILL",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "XAVIER KHARE",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "XAVIER KHARE",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "XAVIER KHARE",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  }
+ ]
+}

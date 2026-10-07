@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Jagvi Tata (ID 1040)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Jagvi's performance this cycle was satisfactory.
+Jagvi contributed to the Atlas Portal project for GreenGrid Energy, working closely with Advik Hans, Ojas De.
+Their work with TypeScript on this project was adequate but needs more depth.
+Key strengths observed: communication and mentoring.
+Jagvi has been mentoring Jyoti Balay, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

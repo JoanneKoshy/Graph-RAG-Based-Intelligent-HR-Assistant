@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Bimala Garg (ID 1031)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Bimala's performance this cycle was satisfactory.
+Bimala contributed to the Atlas Dashboard project for Acme Retail, working closely with Anya Aggarwal, Ojas De.
+Their work with SQL on this project was adequate but needs more depth.
+Key strengths observed: teamwork and problem solving.
+Areas for improvement: deeper technical ownership and documentation.
+Note: Bimala has expressed interest in moving to the Sales team.

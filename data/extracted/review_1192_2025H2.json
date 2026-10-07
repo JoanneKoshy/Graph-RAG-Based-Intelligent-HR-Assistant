@@ -1,0 +1,46 @@
+{
+ "doc_id": "review_1192_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Reyansh Gupta",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Portal"
+  },
+  {
+   "source": "Reyansh Gupta",
+   "relation": "COLLABORATED_WITH",
+   "target": "Upasna Boase"
+  },
+  {
+   "source": "Reyansh Gupta",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ladli Apte"
+  },
+  {
+   "source": "Reyansh Gupta",
+   "relation": "USED_SKILL",
+   "target": "Manual Testing"
+  },
+  {
+   "source": "Reyansh Gupta",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Reyansh Gupta",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Reyansh Gupta",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  },
+  {
+   "source": "Reyansh Gupta",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

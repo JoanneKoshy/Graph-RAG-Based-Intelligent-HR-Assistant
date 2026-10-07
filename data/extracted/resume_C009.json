@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C009",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "FALAK BAKSHI",
+   "relation": "WORKED_AT",
+   "target": "Freshworks"
+  },
+  {
+   "source": "FALAK BAKSHI",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "FALAK BAKSHI",
+   "relation": "USED_SKILL",
+   "target": "AWS"
+  },
+  {
+   "source": "FALAK BAKSHI",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "FALAK BAKSHI",
+   "relation": "USED_SKILL",
+   "target": "Docker"
+  },
+  {
+   "source": "FALAK BAKSHI",
+   "relation": "USED_SKILL",
+   "target": "Deep Learning"
+  },
+  {
+   "source": "FALAK BAKSHI",
+   "relation": "STUDIED_AT",
+   "target": "NIT Calicut"
+  }
+ ]
+}

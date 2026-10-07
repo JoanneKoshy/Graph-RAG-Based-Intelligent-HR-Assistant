@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C045",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "KEYA CHAUDRY",
+   "relation": "WORKED_AT",
+   "target": "TCS"
+  },
+  {
+   "source": "KEYA CHAUDRY",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "KEYA CHAUDRY",
+   "relation": "USED_SKILL",
+   "target": "SEO"
+  },
+  {
+   "source": "KEYA CHAUDRY",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "KEYA CHAUDRY",
+   "relation": "USED_SKILL",
+   "target": "Content Writing"
+  }
+ ]
+}

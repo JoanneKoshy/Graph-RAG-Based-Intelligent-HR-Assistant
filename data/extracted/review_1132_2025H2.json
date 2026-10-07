@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1132_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Kashvi Lanka",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Kashvi Lanka",
+   "relation": "COLLABORATED_WITH",
+   "target": "Devika Chhabra"
+  },
+  {
+   "source": "Kashvi Lanka",
+   "relation": "COLLABORATED_WITH",
+   "target": "Vrinda Kapadia"
+  },
+  {
+   "source": "Kashvi Lanka",
+   "relation": "USED_SKILL",
+   "target": "FastAPI"
+  },
+  {
+   "source": "Kashvi Lanka",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Kashvi Lanka",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Kashvi Lanka",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

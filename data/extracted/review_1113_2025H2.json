@@ -1,0 +1,46 @@
+{
+ "doc_id": "review_1113_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Fitan Raghavan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Cobalt Migration"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "COLLABORATED_WITH",
+   "target": "Eesha Barman"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "COLLABORATED_WITH",
+   "target": "Samar Dubey"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "MENTORS",
+   "target": "Januja Sen"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  }
+ ]
+}

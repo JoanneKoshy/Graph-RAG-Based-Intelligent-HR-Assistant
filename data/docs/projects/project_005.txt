@@ -1,0 +1,9 @@
+PROJECT REPORT: Zenith Migration
+Client: Internal | Owning department: Data Science | Status: Completed
+Start date: 2024-08-04
+
+The Zenith Migration project is led by Januja Devi. The technology stack includes NLP, Spark, Tableau, Machine Learning.
+Team members: Upasna Boase (Developer); Jason Gade (Developer); Udyati Roy (Tester); Ojasvi Suresh (Analyst); Januja Devi (Project Lead); Ganga Prakash (Analyst); Upasna Pandya (Contributor).
+The project was delivered on 2025-07-27 and the client feedback was excellent.
+The main risk identified was integration delays with a third-party API.
+Special recognition goes to Januja Devi for going beyond their assigned role.

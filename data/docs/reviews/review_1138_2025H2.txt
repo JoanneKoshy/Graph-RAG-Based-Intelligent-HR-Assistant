@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Hredhaan Toor (ID 1138)
+Designation: Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Hredhaan's performance this cycle was satisfactory.
+Hredhaan contributed to the Phoenix CRM Revamp project for GreenGrid Energy, working closely with Yashodhara D’Alia, Upasna Pandya.
+Their work with AWS on this project was adequate but needs more depth.
+Key strengths observed: client handling and teamwork.
+Hredhaan has been mentoring Bhavna Keer, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

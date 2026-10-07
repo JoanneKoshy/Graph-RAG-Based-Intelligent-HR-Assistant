@@ -1,0 +1,18 @@
+SIMON KANDA
+Applying for: Software Engineer
+Email: simon.kanda@mail.com | Kadapa
+
+SUMMARY
+7 years of experience, most recently at a Kochi-based startup.
+
+SKILLS
+Azure, C++, Java, Docker
+
+EDUCATION
+B.Com, Christ University
+
+EXPERIENCE
+- a Kochi-based startup: 7 years, focused on Azure and C++.
+
+ACHIEVEMENTS
+- Won a state-level hackathon.

@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C012",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "JAIRAJ DIVAN",
+   "relation": "WORKED_AT",
+   "target": "TCS"
+  },
+  {
+   "source": "JAIRAJ DIVAN",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "JAIRAJ DIVAN",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "JAIRAJ DIVAN",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "JAIRAJ DIVAN",
+   "relation": "STUDIED_AT",
+   "target": "Christ University"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+project_id,name,client,dept_id,start_date,end_date,status,tech_stack
+1,Orion Payment Gateway,Internal,3,2025-12-07,,Ongoing,Manual Testing;Python;Java;Test Automation
+2,Nimbus Chatbot,GreenGrid Energy,6,2026-02-09,,Ongoing,Negotiation;Data Analysis;CRM;Customer Service
+3,Titan Migration,Acme Retail,1,2025-10-29,,Ongoing,CI/CD;Kubernetes;React;TypeScript
+4,Zenith Data Lake,EduSpark,3,2026-04-02,2026-09-13,Completed,CI/CD;Selenium;Manual Testing;Java
+5,Zenith Migration,Internal,2,2024-08-04,2025-07-27,Completed,NLP;Spark;Tableau;Machine Learning
+6,Titan Analytics Platform,MetroMart,7,2025-05-11,,Ongoing,Tableau;SEO;Data Analysis;Digital Marketing
+7,Apex Portal,GreenGrid Energy,2,2026-06-18,2026-08-21,Completed,NLP;Deep Learning;Machine Learning;Data Analysis
+8,Helix CRM Revamp,Acme Retail,7,2025-03-16,,On Hold,Content Writing;Tableau;Data Analysis;SEO
+9,Vega Migration,EduSpark,1,2024-01-27,2024-12-26,Completed,C++;Kubernetes;Docker;FastAPI
+10,Atlas Mobile App,GreenGrid Energy,7,2025-03-25,,Ongoing,Data Analysis;Digital Marketing;Content Writing;SEO
+11,Aurora Chatbot,Internal,7,2026-03-03,,Ongoing,Data Analysis;Content Writing;Tableau;Digital Marketing
+12,Echo Payment Gateway,MetroMart,1,2024-11-27,,Ongoing,Go;TypeScript;JavaScript;Java
+13,Helix Automation Suite,Sunrise Bank,2,2025-04-01,2025-09-30,Completed,SQL;Machine Learning;Deep Learning;Python
+14,Atlas Data Lake,Internal,2,2024-09-07,,Ongoing,NLP;AWS;Spark;Deep Learning
+15,Nimbus Automation Suite,EduSpark,2,2025-12-09,,Ongoing,AWS;Spark;Machine Learning;Tableau
+16,Quantum Migration,Sunrise Bank,2,2024-04-21,,Ongoing,Docker;Spark;SQL;Tableau
+17,Phoenix Dashboard,Acme Retail,1,2026-04-05,,Ongoing,Python;SQL;Node.js;C++
+18,Nimbus Mobile App,GreenGrid Energy,1,2025-10-04,,Ongoing,CI/CD;Django;Azure;Spring Boot
+19,Zenith Chatbot,EduSpark,2,2026-05-12,2026-09-01,Completed,Machine Learning;AWS;SQL;NLP
+20,Echo Analytics Platform,MetroMart,1,2024-01-26,,Ongoing,Kubernetes;C++;SQL;Go
+21,Atlas CRM Revamp,BlueWave Logistics,3,2026-02-02,2026-08-08,Completed,Python;Java;Manual Testing;Test Automation
+22,Helix Mobile App,Internal,6,2026-04-03,2026-09-15,Completed,Negotiation;CRM;Customer Service;Data Analysis
+23,Cobalt Migration,MetroMart,2,2025-11-17,,Ongoing,SQL;Tableau;Machine Learning;Docker
+24,Aurora Payment Gateway,EduSpark,1,2025-05-01,2026-04-01,Completed,Azure;Go;Node.js;Spring Boot
+25,Atlas Dashboard,Acme Retail,1,2025-12-11,,Ongoing,AWS;Django;React;JavaScript
+26,Nova Mobile App,MetroMart,7,2026-02-12,,Ongoing,SEO;Content Writing;Digital Marketing;Tableau
+27,Phoenix CRM Revamp,GreenGrid Energy,3,2025-01-02,2025-08-24,Completed,Selenium;Manual Testing;Performance Testing;Python
+28,Atlas Portal,GreenGrid Energy,1,2026-06-25,,Ongoing,AWS;C++;JavaScript;Docker
+29,Phoenix Portal,MetroMart,2,2025-12-22,2026-08-26,Completed,SQL;Machine Learning;Spark;NLP
+30,Vega Dashboard,MetroMart,1,2026-03-28,2026-09-19,Completed,Java;Node.js;Angular;Python

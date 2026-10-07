@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Champak Chatterjee (ID 1094)
+Designation: Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Champak's performance this cycle was below expectations.
+Champak contributed to the Phoenix Portal project for MetroMart, working closely with Upasna Boase, Ladli Apte.
+Their work with Spark on this project was adequate but needs more depth.
+Key strengths observed: client handling and problem solving.
+Champak has been mentoring Jagdish Bhardwaj, who has shown clear improvement as a result.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

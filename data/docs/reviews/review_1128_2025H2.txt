@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Krishna Baral (ID 1128)
+Designation: Senior QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Krishna's performance this cycle was satisfactory.
+Krishna contributed to the Nimbus Chatbot project for GreenGrid Energy, working closely with Chatura Kothari, Krisha Pingle.
+Their work with SQL on this project was adequate but needs more depth.
+Key strengths observed: mentoring and time management.
+Areas for improvement: deeper technical ownership and documentation.

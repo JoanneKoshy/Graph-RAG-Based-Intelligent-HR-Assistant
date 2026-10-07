@@ -1,0 +1,9 @@
+PROJECT REPORT: Titan Migration
+Client: Acme Retail | Owning department: Engineering | Status: Ongoing
+Start date: 2025-10-29
+
+The Titan Migration project is led by Kritika Loke. The technology stack includes CI/CD, Kubernetes, React, TypeScript.
+Team members: Libni Sha (Tester); Januja Amble (Analyst); Kritika Loke (Project Lead); Atharv Chanda (Analyst); Rajata Gaba (Reviewer); Mason Shankar (Analyst).
+The project is currently about 20% complete.
+The main risk identified was a shortage of senior reviewers.
+Special recognition goes to Januja Amble for going beyond their assigned role.

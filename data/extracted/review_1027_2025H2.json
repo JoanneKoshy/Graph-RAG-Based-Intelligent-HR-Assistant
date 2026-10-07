@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1027_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Maya Setty",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Maya Setty",
+   "relation": "COLLABORATED_WITH",
+   "target": "Reyansh Gupta"
+  },
+  {
+   "source": "Maya Setty",
+   "relation": "COLLABORATED_WITH",
+   "target": "Reva Pant"
+  },
+  {
+   "source": "Maya Setty",
+   "relation": "USED_SKILL",
+   "target": "Performance Testing"
+  },
+  {
+   "source": "Maya Setty",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Maya Setty",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  }
+ ]
+}

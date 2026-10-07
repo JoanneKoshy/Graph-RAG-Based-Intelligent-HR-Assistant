@@ -1,0 +1,26 @@
+{
+ "doc_id": "review_1149_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Lohit Kade",
+   "relation": "MENTORS",
+   "target": "Mason Shankar"
+  },
+  {
+   "source": "Lohit Kade",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Lohit Kade",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Lohit Kade",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1193_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Joshua Basu",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Joshua Basu",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ganga Dutta"
+  },
+  {
+   "source": "Joshua Basu",
+   "relation": "COLLABORATED_WITH",
+   "target": "Parth Mody"
+  },
+  {
+   "source": "Joshua Basu",
+   "relation": "USED_SKILL",
+   "target": "Negotiation"
+  },
+  {
+   "source": "Joshua Basu",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Joshua Basu",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  }
+ ]
+}

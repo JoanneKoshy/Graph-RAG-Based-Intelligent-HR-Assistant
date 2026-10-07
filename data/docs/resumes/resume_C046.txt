@@ -1,0 +1,18 @@
+DIPTA BARMAN
+Applying for: QA Engineer
+Email: dipta.barman@mail.com | Katihar
+
+SUMMARY
+8 years of experience, most recently at Wipro.
+
+SKILLS
+Performance Testing, Python, CI/CD, SQL, Test Automation
+
+EDUCATION
+MBA (HR), MITS Kochi
+
+EXPERIENCE
+- Wipro: 8 years, focused on Performance Testing and Python.
+
+ACHIEVEMENTS
+- Won a state-level hackathon.

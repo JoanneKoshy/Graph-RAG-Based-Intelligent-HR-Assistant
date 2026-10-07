@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C026",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Aishani Rai",
+   "relation": "WORKED_AT",
+   "target": "TCS"
+  },
+  {
+   "source": "Aishani Rai",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "Aishani Rai",
+   "relation": "USED_SKILL",
+   "target": "Performance Testing"
+  },
+  {
+   "source": "Aishani Rai",
+   "relation": "USED_SKILL",
+   "target": "Test Automation"
+  },
+  {
+   "source": "Aishani Rai",
+   "relation": "USED_SKILL",
+   "target": "CI/CD"
+  }
+ ]
+}

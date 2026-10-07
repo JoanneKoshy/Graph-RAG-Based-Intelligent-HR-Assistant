@@ -1,0 +1,61 @@
+{
+ "doc_id": "project_023",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Samar Dubey",
+   "relation": "LED",
+   "target": "Cobalt Migration"
+  },
+  {
+   "source": "Eesha Barman",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Cobalt Migration"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Cobalt Migration"
+  },
+  {
+   "source": "Samar Dubey",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Cobalt Migration"
+  },
+  {
+   "source": "Advaith Karpe",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Cobalt Migration"
+  },
+  {
+   "source": "Advaith Karpe",
+   "relation": "RECOGNIZED_ON",
+   "target": "Cobalt Migration"
+  },
+  {
+   "source": "Cobalt Migration",
+   "relation": "PROJECT_USES",
+   "target": "SQL"
+  },
+  {
+   "source": "Cobalt Migration",
+   "relation": "PROJECT_USES",
+   "target": "Tableau"
+  },
+  {
+   "source": "Cobalt Migration",
+   "relation": "PROJECT_USES",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "Cobalt Migration",
+   "relation": "PROJECT_USES",
+   "target": "Docker"
+  },
+  {
+   "source": "Cobalt Migration",
+   "relation": "HAS_RISK",
+   "target": "scope creep from late client requirements"
+  }
+ ]
+}

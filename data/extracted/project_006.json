@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_006",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Advaith Karpe",
+   "relation": "LED",
+   "target": "Titan Analytics Platform"
+  },
+  {
+   "source": "Advaith Karpe",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Analytics Platform"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Analytics Platform"
+  },
+  {
+   "source": "Harish Muni",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Analytics Platform"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Analytics Platform"
+  },
+  {
+   "source": "Libni Sha",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Analytics Platform"
+  },
+  {
+   "source": "Harish Muni",
+   "relation": "RECOGNIZED_ON",
+   "target": "Titan Analytics Platform"
+  },
+  {
+   "source": "Titan Analytics Platform",
+   "relation": "PROJECT_USES",
+   "target": "Tableau"
+  },
+  {
+   "source": "Titan Analytics Platform",
+   "relation": "PROJECT_USES",
+   "target": "SEO"
+  },
+  {
+   "source": "Titan Analytics Platform",
+   "relation": "PROJECT_USES",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Titan Analytics Platform",
+   "relation": "PROJECT_USES",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "Titan Analytics Platform",
+   "relation": "HAS_RISK",
+   "target": "shortage of senior reviewers"
+  }
+ ]
+}

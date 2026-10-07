@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1073_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Edhitha Dave",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Mobile App"
+  },
+  {
+   "source": "Edhitha Dave",
+   "relation": "COLLABORATED_WITH",
+   "target": "Zarna Anand"
+  },
+  {
+   "source": "Edhitha Dave",
+   "relation": "COLLABORATED_WITH",
+   "target": "Atharv Chanda"
+  },
+  {
+   "source": "Edhitha Dave",
+   "relation": "USED_SKILL",
+   "target": "C++"
+  },
+  {
+   "source": "Edhitha Dave",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Edhitha Dave",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  }
+ ]
+}

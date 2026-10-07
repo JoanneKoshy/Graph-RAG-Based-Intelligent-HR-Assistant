@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Onveer Jani (ID 1150)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Onveer's performance this cycle was satisfactory.
+Onveer contributed to the Atlas Dashboard project for Acme Retail, working closely with Bimala Garg, Anya Aggarwal.
+Their work with Angular on this project was adequate but needs more depth.
+Key strengths observed: problem solving and teamwork.
+Areas for improvement: deeper technical ownership and documentation.

@@ -1,0 +1,18 @@
+GANGA SARAN
+Applying for: Data Scientist
+Email: ganga.saran@mail.com | Nagaon
+
+SUMMARY
+1 years of experience, most recently at Infosys.
+
+SKILLS
+SQL, AWS, Power BI, Docker
+
+EDUCATION
+MCA, Anna University
+
+EXPERIENCE
+- Infosys: 1 years, focused on SQL and AWS.
+
+ACHIEVEMENTS
+- Published a paper at a national conference.

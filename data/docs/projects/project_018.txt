@@ -1,0 +1,9 @@
+PROJECT REPORT: Nimbus Mobile App
+Client: GreenGrid Energy | Owning department: Engineering | Status: Ongoing
+Start date: 2025-10-04
+
+The Nimbus Mobile App project is led by Aadhya Ramakrishnan. The technology stack includes CI/CD, Django, Azure, Spring Boot.
+Team members: Zarna Anand (Developer); Edhitha Dave (Reviewer); Atharv Chanda (Analyst); Luke Sampath (Contributor); Aadhya Ramakrishnan (Project Lead).
+The project is currently about 54% complete.
+The main risk identified was integration delays with a third-party API.
+Special recognition goes to Luke Sampath for going beyond their assigned role.

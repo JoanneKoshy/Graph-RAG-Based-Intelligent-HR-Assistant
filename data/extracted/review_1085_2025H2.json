@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1085_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Balendra Bhargava",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "COLLABORATED_WITH",
+   "target": "Advaith Karpe"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "COLLABORATED_WITH",
+   "target": "Libni Tiwari"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "USED_SKILL",
+   "target": "Selenium"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "INTERESTED_IN",
+   "target": "Finance"
+  }
+ ]
+}

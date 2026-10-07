@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C003",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "HARITA MITRA",
+   "relation": "WORKED_AT",
+   "target": "Wipro"
+  },
+  {
+   "source": "HARITA MITRA",
+   "relation": "USED_SKILL",
+   "target": "Java"
+  },
+  {
+   "source": "HARITA MITRA",
+   "relation": "USED_SKILL",
+   "target": "Test Automation"
+  },
+  {
+   "source": "HARITA MITRA",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "HARITA MITRA",
+   "relation": "STUDIED_AT",
+   "target": "Anna University"
+  }
+ ]
+}

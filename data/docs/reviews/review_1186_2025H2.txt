@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Devika Lal (ID 1186)
+Designation: Senior Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Devika's performance this cycle was satisfactory.
+Devika contributed to the Helix Automation Suite project for Sunrise Bank, working closely with Eesha Barman, Diya Mital.
+Their work with Spark on this project was adequate but needs more depth.
+Key strengths observed: mentoring and teamwork.
+Areas for improvement: deeper technical ownership and documentation.

@@ -1,0 +1,46 @@
+{
+ "doc_id": "review_1141_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Krisha Pingle",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ganga Dutta"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "COLLABORATED_WITH",
+   "target": "Parth Mody"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "USED_SKILL",
+   "target": "Negotiation"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1072_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Bhavya Walia",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Bhavya Walia",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Bhavya Walia",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

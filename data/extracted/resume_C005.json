@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C005",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "TANVEER NAGY",
+   "relation": "WORKED_AT",
+   "target": "a Kochi-based startup"
+  },
+  {
+   "source": "TANVEER NAGY",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "TANVEER NAGY",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "TANVEER NAGY",
+   "relation": "USED_SKILL",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "TANVEER NAGY",
+   "relation": "USED_SKILL",
+   "target": "SEO"
+  },
+  {
+   "source": "TANVEER NAGY",
+   "relation": "STUDIED_AT",
+   "target": "Anna University"
+  }
+ ]
+}

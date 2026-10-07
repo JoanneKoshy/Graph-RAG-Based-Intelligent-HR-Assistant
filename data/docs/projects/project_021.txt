@@ -1,0 +1,9 @@
+PROJECT REPORT: Atlas CRM Revamp
+Client: BlueWave Logistics | Owning department: Quality Assurance | Status: Completed
+Start date: 2026-02-02
+
+The Atlas CRM Revamp project is led by Advaith Karpe. The technology stack includes Python, Java, Manual Testing, Test Automation.
+Team members: Balendra Bhargava (Contributor); Advaith Karpe (Project Lead); Libni Tiwari (Developer); Jyoti Bir (Reviewer); Siya Shanker (Contributor); Januja Amble (Reviewer).
+The project was delivered on 2026-08-08 and the client feedback was mixed.
+The main risk identified was scope creep from late client requirements.
+Special recognition goes to Jyoti Bir for going beyond their assigned role.

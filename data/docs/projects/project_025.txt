@@ -1,0 +1,9 @@
+PROJECT REPORT: Atlas Dashboard
+Client: Acme Retail | Owning department: Engineering | Status: Ongoing
+Start date: 2025-12-11
+
+The Atlas Dashboard project is led by Bimala Garg. The technology stack includes AWS, Django, React, JavaScript.
+Team members: Bimala Garg (Project Lead); Anya Aggarwal (Contributor); Ojas De (Tester); Yashoda Buch (Reviewer); Januja Amble (Reviewer); Onveer Jani (Analyst); Liam Boase (Developer).
+The project is currently about 47% complete.
+The main risk identified was scope creep from late client requirements.
+Special recognition goes to Anya Aggarwal for going beyond their assigned role.

@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_020",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Kritika Loke",
+   "relation": "LED",
+   "target": "Echo Analytics Platform"
+  },
+  {
+   "source": "Echo Analytics Platform",
+   "relation": "PROJECT_USES",
+   "target": "Kubernetes"
+  },
+  {
+   "source": "Echo Analytics Platform",
+   "relation": "PROJECT_USES",
+   "target": "C++"
+  },
+  {
+   "source": "Echo Analytics Platform",
+   "relation": "PROJECT_USES",
+   "target": "SQL"
+  },
+  {
+   "source": "Echo Analytics Platform",
+   "relation": "PROJECT_USES",
+   "target": "Go"
+  },
+  {
+   "source": "Januja Amble",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Analytics Platform"
+  },
+  {
+   "source": "Jyoti Balay",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Analytics Platform"
+  },
+  {
+   "source": "Henry Loke",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Analytics Platform"
+  },
+  {
+   "source": "Zarna Anand",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Analytics Platform"
+  },
+  {
+   "source": "Ganga Prakash",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Analytics Platform"
+  },
+  {
+   "source": "Kritika Loke",
+   "relation": "RECOGNIZED_ON",
+   "target": "Echo Analytics Platform"
+  },
+  {
+   "source": "Echo Analytics Platform",
+   "relation": "HAS_RISK",
+   "target": "scope creep from late client requirements"
+  }
+ ]
+}

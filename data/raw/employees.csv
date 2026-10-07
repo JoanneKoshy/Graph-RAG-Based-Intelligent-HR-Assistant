@@ -1,0 +1,201 @@
+emp_id,first_name,last_name,email,gender,date_of_birth,hire_date,dept_id,designation,level,manager_id,location,employment_type,status,experience_years
+1001,Daksh,Bakshi,daksh.bakshi@nexora.com,Male,1986-04-26,2015-01-31,1,Engineering Manager,3,,Kochi,Full-time,Active,10
+1002,Laksh,Konda,laksh.konda@nexora.com,Male,1979-07-26,2013-02-23,2,Data Science Manager,3,,Bengaluru,Full-time,Active,13
+1003,Isaac,Dewan,isaac.dewan@nexora.com,Male,1978-05-11,2012-05-02,3,Quality Assurance Manager,3,,Kochi,Full-time,Active,16
+1004,Charan,Chahal,charan.chahal@nexora.com,Male,1980-08-10,2017-08-31,4,Human Resources Manager,3,,Kochi,Full-time,Active,13
+1005,Siddharth,Balay,siddharth.balay@nexora.com,Male,1980-03-25,2019-04-15,5,Finance Manager,3,,Mumbai,Full-time,Active,18
+1006,Amruta,Chander,amruta.chander@nexora.com,Female,1983-01-14,2018-08-10,6,Sales Manager,3,,Mumbai,Full-time,Active,13
+1007,Janani,Kaul,janani.kaul@nexora.com,Female,1986-07-06,2013-10-15,7,Marketing Manager,3,,Bengaluru,Full-time,Active,10
+1008,Yashawini,Bala,yashawini.bala@nexora.com,Female,1981-02-12,2013-09-28,8,Customer Support Manager,3,,Chennai,Full-time,Active,15
+1009,Hardik,Saini,hardik.saini@nexora.com,Male,2003-02-07,2023-09-18,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,3
+1010,Januja,Sen,januja.sen@nexora.com,Female,1993-02-10,2024-06-25,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,3
+1011,Liam,Ahuja,liam.ahuja@nexora.com,Male,1999-04-05,2025-12-12,5,Accountant,0,1005,Mumbai,Full-time,Active,1
+1012,Fariq,Sami,fariq.sami@nexora.com,Male,1993-07-06,2024-06-07,1,Software Engineer,0,1001,Kochi,Full-time,Active,2
+1013,Onkar,Mall,onkar.mall@nexora.com,Male,1991-01-03,2025-04-06,7,Content Strategist,1,1007,Bengaluru,Full-time,Active,5
+1014,Garima,Kale,garima.kale@nexora.com,Female,1990-12-10,2025-05-09,7,Content Strategist,1,1007,Bengaluru,Full-time,Active,4
+1015,Pahal,Chaudry,pahal.chaudry@nexora.com,Female,1987-01-15,2020-04-20,5,Financial Analyst,1,1005,Mumbai,Full-time,Active,7
+1016,Chakradhar,Rai,chakradhar.rai@nexora.com,Male,1996-11-13,2025-03-01,7,Marketing Executive,0,1007,Bengaluru,Full-time,Resigned,1
+1017,Chasmum,Parmer,chasmum.parmer@nexora.com,Female,1985-01-27,2021-08-17,3,QA Lead,2,1003,Kochi,Intern,Active,9
+1018,Pooja,Lalla,pooja.lalla@nexora.com,Female,1988-06-06,2025-02-06,7,Marketing Executive,0,1007,Bengaluru,Full-time,Active,1
+1019,Anya,Sharaf,anya.sharaf@nexora.com,Female,2003-08-28,2020-10-27,1,Tech Lead,2,1001,Kochi,Full-time,Active,9
+1020,Diya,Radhakrishnan,diya.radhakrishnan@nexora.com,Female,1987-11-18,2025-05-17,1,Software Engineer,0,1001,Kochi,Full-time,Active,0
+1021,Balveer,Memon,balveer.memon@nexora.com,Male,1999-07-30,2023-11-13,8,Support Associate,0,1008,Chennai,Full-time,Resigned,3
+1022,Radhika,Handa,radhika.handa@nexora.com,Female,1989-12-10,2025-02-18,7,Marketing Executive,0,1007,Bengaluru,Full-time,Active,1
+1023,Bakhshi,Bath,bakhshi.bath@nexora.com,Male,1989-10-22,2025-03-13,5,Accountant,0,1005,Mumbai,Full-time,Active,0
+1024,Jhalak,Mann,jhalak.mann@nexora.com,Female,1992-12-12,2016-11-03,5,Senior Financial Analyst,2,1005,Mumbai,Full-time,Active,10
+1025,Chaaya,Kaul,chaaya.kaul@nexora.com,Female,1989-04-08,2023-01-20,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,3
+1026,Daksha,Rai,daksha.rai@nexora.com,Female,1986-02-19,2025-02-23,1,Software Engineer,0,1001,Kochi,Full-time,Active,3
+1027,Maya,Setty,maya.setty@nexora.com,Female,1986-04-26,2025-02-24,3,QA Engineer,0,1003,Kochi,Full-time,Active,0
+1028,Rajata,Gaba,rajata.gaba@nexora.com,Female,1986-04-25,2023-07-31,1,Software Engineer,0,1001,Kochi,Full-time,Active,3
+1029,Reva,Pant,reva.pant@nexora.com,Female,1986-04-11,2025-02-20,3,Senior QA Engineer,1,1003,Kochi,Intern,Active,3
+1030,Henry,Loke,henry.loke@nexora.com,Male,1998-05-03,2026-03-19,1,Software Engineer,0,1001,Kochi,Full-time,Active,0
+1031,Bimala,Garg,bimala.garg@nexora.com,Female,1999-06-24,2022-12-20,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,5
+1032,Jason,Gade,jason.gade@nexora.com,Male,1987-12-22,2023-05-07,2,Data Scientist,1,1002,Bengaluru,Contract,Active,3
+1033,Vedhika,Raghavan,vedhika.raghavan@nexora.com,Female,2003-02-07,2021-02-22,7,Marketing Lead,2,1007,Bengaluru,Full-time,Active,8
+1034,Lopa,Kanda,lopa.kanda@nexora.com,Female,1988-06-27,2023-01-18,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,3
+1035,Omaja,Bhalla,omaja.bhalla@nexora.com,Female,1994-07-02,2021-01-13,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,5
+1036,Jyoti,Balay,jyoti.balay@nexora.com,Female,1987-07-06,2025-01-17,1,Software Engineer,0,1001,Kochi,Full-time,Active,1
+1037,Nakul,Rattan,nakul.rattan@nexora.com,Male,2002-11-09,2015-06-21,7,Marketing Lead,2,1007,Bengaluru,Intern,Active,11
+1038,Lipika,Bhatti,lipika.bhatti@nexora.com,Female,1990-04-24,2026-06-19,1,Software Engineer,0,1001,Kochi,Contract,Active,1
+1039,Jagvi,Murty,jagvi.murty@nexora.com,Female,2001-06-27,2023-11-26,8,Support Specialist,1,1008,Chennai,Full-time,Active,3
+1040,Jagvi,Tata,jagvi.tata@nexora.com,Female,2003-05-28,2024-11-29,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,6
+1041,Siya,Shanker,siya.shanker@nexora.com,Female,1999-05-23,2026-07-01,1,Software Engineer,0,1001,Kochi,Full-time,Active,1
+1042,Eshana,Lanka,eshana.lanka@nexora.com,Female,1998-05-20,2023-06-29,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,3
+1043,Ekaraj,Koshy,ekaraj.koshy@nexora.com,Male,2003-02-02,2025-04-22,5,Accountant,0,1005,Mumbai,Full-time,Active,0
+1044,Karan,Sangha,karan.sangha@nexora.com,Male,1999-11-18,2025-11-17,5,Financial Analyst,1,1005,Mumbai,Full-time,Active,5
+1045,Sudiksha,Pathak,sudiksha.pathak@nexora.com,Female,1994-06-07,2025-04-20,5,Accountant,0,1005,Mumbai,Full-time,Active,2
+1046,Januja,Devi,januja.devi@nexora.com,Female,1989-09-18,2018-10-03,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,7
+1047,Yatin,Chand,yatin.chand@nexora.com,Male,1991-05-14,2021-08-27,3,Senior QA Engineer,1,1003,Kochi,Full-time,Active,6
+1048,Arjun,Choudhary,arjun.choudhary@nexora.com,Male,1995-08-29,2024-10-11,4,HR Executive,0,1004,Kochi,Full-time,Active,1
+1049,Ganga,Dutta,ganga.dutta@nexora.com,Female,2001-11-04,2025-03-16,6,Sales Executive,0,1006,Mumbai,Contract,Active,1
+1050,Udyati,Bhatt,udyati.bhatt@nexora.com,Female,1987-09-22,2023-02-23,7,Content Strategist,1,1007,Bengaluru,Full-time,On Leave,4
+1051,Sanya,Raj,sanya.raj@nexora.com,Female,2001-09-06,2024-10-01,6,Account Manager,1,1006,Mumbai,Contract,Active,6
+1052,Vivaan,Wadhwa,vivaan.wadhwa@nexora.com,Male,1990-04-05,2019-08-15,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,7
+1053,Ladli,Apte,ladli.apte@nexora.com,Female,1994-02-22,2022-12-13,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,4
+1054,Dakshesh,Yadav,dakshesh.yadav@nexora.com,Male,1995-09-13,2026-06-27,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,3
+1055,Kiaan,Oak,kiaan.oak@nexora.com,Male,1985-08-26,2021-10-23,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,7
+1056,Daksh,Memon,daksh.memon@nexora.com,Male,1985-08-11,2026-03-31,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,6
+1057,Urishilla,Dugar,urishilla.dugar@nexora.com,Female,2002-01-27,2021-11-07,2,Senior Data Scientist,2,1002,Bengaluru,Contract,Active,9
+1058,Vasana,Aggarwal,vasana.aggarwal@nexora.com,Female,1992-11-06,2024-10-19,1,Tech Lead,2,1001,Kochi,Full-time,Active,7
+1059,Karan,Tella,karan.tella@nexora.com,Male,1987-11-01,2024-09-19,1,Tech Lead,2,1001,Kochi,Full-time,Active,8
+1060,Gaurav,Tripathi,gaurav.tripathi@nexora.com,Male,2002-06-12,2025-02-20,1,Tech Lead,2,1001,Kochi,Full-time,Active,9
+1061,Damyanti,Misra,damyanti.misra@nexora.com,Female,2000-06-28,2025-02-20,8,Support Associate,0,1008,Chennai,Full-time,Active,0
+1062,Zehaan,Issac,zehaan.issac@nexora.com,Male,1986-07-19,2023-07-22,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,7
+1063,Ganga,Prakash,ganga.prakash@nexora.com,Female,1988-06-07,2025-01-26,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,3
+1064,Gaurika,Zacharia,gaurika.zacharia@nexora.com,Female,1991-01-08,2024-04-05,5,Senior Financial Analyst,2,1005,Mumbai,Full-time,Active,11
+1065,Zilmil,Acharya,zilmil.acharya@nexora.com,Female,1985-08-24,2025-03-30,1,Tech Lead,2,1001,Kochi,Full-time,Active,8
+1066,Ojasvi,Suresh,ojasvi.suresh@nexora.com,Female,1997-06-20,2026-05-26,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,2
+1067,Aditya,Choudhury,aditya.choudhury@nexora.com,Male,1995-01-20,2024-07-23,8,Support Associate,0,1008,Chennai,Full-time,Active,3
+1068,Radhika,Mohanty,radhika.mohanty@nexora.com,Female,2001-09-24,2025-02-12,1,Software Engineer,0,1001,Kochi,Full-time,Active,1
+1069,Jagdish,Bhardwaj,jagdish.bhardwaj@nexora.com,Male,1997-01-07,2024-08-19,2,Data Analyst,0,1002,Bengaluru,Intern,Active,2
+1070,Kavya,Brar,kavya.brar@nexora.com,Female,1990-02-07,2026-08-01,5,Accountant,0,1005,Mumbai,Full-time,Active,3
+1071,Brijesh,Sunder,brijesh.sunder@nexora.com,Male,1999-04-23,2024-08-29,2,Data Scientist,1,1002,Bengaluru,Contract,Resigned,5
+1072,Bhavya,Walia,bhavya.walia@nexora.com,Female,1995-09-19,2016-04-30,3,QA Lead,2,1003,Kochi,Full-time,Active,10
+1073,Edhitha,Dave,edhitha.dave@nexora.com,Female,2002-02-23,2025-03-05,1,Software Engineer,0,1001,Kochi,Full-time,Active,0
+1074,Vyanjana,Gandhi,vyanjana.gandhi@nexora.com,Female,1998-12-06,2026-01-06,3,Senior QA Engineer,1,1003,Kochi,Full-time,Active,6
+1075,Kevin,Wable,kevin.wable@nexora.com,Male,1988-07-06,2024-11-13,8,Support Associate,0,1008,Chennai,Full-time,Active,1
+1076,Udyati,Kakar,udyati.kakar@nexora.com,Female,1986-08-07,2024-09-19,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,3
+1077,Harish,Muni,harish.muni@nexora.com,Male,1986-08-08,2022-09-24,7,Content Strategist,1,1007,Bengaluru,Full-time,Active,6
+1078,Sudiksha,Prakash,sudiksha.prakash@nexora.com,Female,1996-03-23,2024-04-06,6,Account Manager,1,1006,Mumbai,Full-time,Resigned,6
+1079,Urvashi,Varughese,urvashi.varughese@nexora.com,Female,2003-10-02,2022-01-12,2,Data Scientist,1,1002,Bengaluru,Contract,Resigned,5
+1080,Upkaar,Dara,upkaar.dara@nexora.com,Male,1989-01-26,2024-12-26,3,QA Engineer,0,1003,Kochi,Intern,On Leave,2
+1081,Krishna,Kar,krishna.kar@nexora.com,Female,1992-05-25,2020-12-03,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,6
+1082,Bhavika,Nigam,bhavika.nigam@nexora.com,Female,2002-04-30,2021-07-31,3,Senior QA Engineer,1,1003,Kochi,Full-time,Active,7
+1083,Advaith,Karpe,advaith.karpe@nexora.com,Male,2002-01-17,2024-05-04,3,QA Lead,2,1003,Kochi,Full-time,Active,7
+1084,Januja,Amble,januja.amble@nexora.com,Female,1991-12-21,2024-06-02,1,Software Engineer,0,1001,Kochi,Full-time,Active,2
+1085,Balendra,Bhargava,balendra.bhargava@nexora.com,Male,1991-02-18,2025-03-16,3,QA Engineer,0,1003,Kochi,Full-time,Active,0
+1086,Jyoti,Bir,jyoti.bir@nexora.com,Female,1988-01-24,2024-06-05,3,QA Engineer,0,1003,Kochi,Contract,Active,3
+1087,Anamika,Narayanan,anamika.narayanan@nexora.com,Female,2003-10-14,2022-05-03,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,5
+1088,Bimala,Varkey,bimala.varkey@nexora.com,Female,1993-06-18,2025-02-18,8,Support Associate,0,1008,Chennai,Full-time,Active,1
+1089,Jagat,Mallick,jagat.mallick@nexora.com,Male,2001-09-14,2025-12-28,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,1
+1090,Xavier,Kala,xavier.kala@nexora.com,Male,1987-04-03,2025-02-28,7,Marketing Executive,0,1007,Bengaluru,Contract,Active,1
+1091,Dominic,Solanki,dominic.solanki@nexora.com,Male,1986-09-05,2024-08-01,2,Data Scientist,1,1002,Bengaluru,Full-time,Resigned,3
+1092,Keya,Solanki,keya.solanki@nexora.com,Female,2002-01-13,2026-04-17,8,Support Associate,0,1008,Chennai,Full-time,Active,3
+1093,Samar,Gupta,samar.gupta@nexora.com,Male,2000-10-15,2021-04-20,3,Senior QA Engineer,1,1003,Kochi,Contract,Active,5
+1094,Champak,Chatterjee,champak.chatterjee@nexora.com,Male,1990-06-24,2023-10-19,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,3
+1095,Upasna,Pandya,upasna.pandya@nexora.com,Female,1998-01-30,2023-02-06,3,Senior QA Engineer,1,1003,Kochi,Full-time,Active,4
+1096,Udyati,Roy,udyati.roy@nexora.com,Female,1992-10-01,2024-03-10,2,Data Analyst,0,1002,Bengaluru,Intern,Active,2
+1097,Vivaan,Bhagat,vivaan.bhagat@nexora.com,Male,1993-07-22,2026-02-03,1,Tech Lead,2,1001,Kochi,Full-time,Active,9
+1098,Chavvi,Bhat,chavvi.bhat@nexora.com,Female,2002-06-16,2021-05-07,3,QA Lead,2,1003,Kochi,Full-time,Active,12
+1099,Tamanna,Nori,tamanna.nori@nexora.com,Female,2000-03-15,2021-10-25,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,5
+1100,Chatura,Kothari,chatura.kothari@nexora.com,Male,1993-03-08,2023-12-26,6,Account Manager,1,1006,Mumbai,Full-time,Active,3
+1101,Gopal,Gupta,gopal.gupta@nexora.com,Male,1996-11-27,2025-03-16,1,Software Engineer,0,1001,Kochi,Full-time,Resigned,3
+1102,Vanya,Dey,vanya.dey@nexora.com,Female,1988-02-28,2024-01-23,1,Software Engineer,0,1001,Kochi,Full-time,Resigned,3
+1103,Siddharth,Goswami,siddharth.goswami@nexora.com,Male,1987-10-10,2018-11-28,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,7
+1104,Liam,Shere,liam.shere@nexora.com,Male,1997-08-05,2024-03-22,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,5
+1105,Kritika,Borra,kritika.borra@nexora.com,Female,1991-10-30,2021-01-01,4,Senior HR Executive,1,1004,Kochi,Intern,Resigned,5
+1106,Vaishnavi,Chaudhari,vaishnavi.chaudhari@nexora.com,Female,1997-02-12,2025-04-08,1,Software Engineer,0,1001,Kochi,Full-time,Active,1
+1107,Arya,Zachariah,arya.zachariah@nexora.com,Female,1993-04-24,2025-10-22,5,Accountant,0,1005,Mumbai,Full-time,Active,3
+1108,Advika,Chander,advika.chander@nexora.com,Female,1991-03-11,2024-10-02,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,2
+1109,Jagat,Ganesan,jagat.ganesan@nexora.com,Male,1986-02-19,2024-06-03,1,Senior Software Engineer,1,1001,Kochi,Full-time,Resigned,3
+1110,Samar,Sunder,samar.sunder@nexora.com,Male,1992-05-15,2025-04-26,1,Software Engineer,0,1001,Kochi,Full-time,Active,1
+1111,Warda,Kala,warda.kala@nexora.com,Female,1985-07-31,2022-05-14,6,Account Manager,1,1006,Mumbai,Full-time,Active,4
+1112,Suhani,Bhargava,suhani.bhargava@nexora.com,Female,1987-07-21,2024-10-29,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,3
+1113,Fitan,Raghavan,fitan.raghavan@nexora.com,Male,1999-10-12,2025-06-23,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,6
+1114,Aadhya,Ramakrishnan,aadhya.ramakrishnan@nexora.com,Female,1994-12-13,2021-04-02,2,Senior Data Scientist,2,1002,Bengaluru,Full-time,Active,10
+1115,Libni,Sha,libni.sha@nexora.com,Female,1995-03-06,2025-02-05,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,4
+1116,Luke,Sampath,luke.sampath@nexora.com,Male,2003-07-24,2021-04-24,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,7
+1117,Widisha,Dubey,widisha.dubey@nexora.com,Female,1995-08-22,2023-03-06,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,3
+1118,Girish,Minhas,girish.minhas@nexora.com,Male,2000-01-11,2025-05-24,6,Sales Executive,0,1006,Mumbai,Full-time,Active,0
+1119,Janani,Bhardwaj,janani.bhardwaj@nexora.com,Female,1988-06-21,2024-05-14,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,3
+1120,Azaan,Murthy,azaan.murthy@nexora.com,Male,2003-05-11,2025-04-27,1,Software Engineer,0,1001,Kochi,Full-time,Resigned,2
+1121,Barkha,Bedi,barkha.bedi@nexora.com,Female,1992-11-15,2023-08-13,4,Senior HR Executive,1,1004,Kochi,Full-time,On Leave,3
+1122,William,Thakkar,william.thakkar@nexora.com,Male,1994-06-02,2024-03-27,7,Content Strategist,1,1007,Bengaluru,Full-time,Active,3
+1123,Farhan,Bhandari,farhan.bhandari@nexora.com,Male,1998-11-10,2025-08-19,1,Software Engineer,0,1001,Kochi,Full-time,Active,2
+1124,Yashoda,Buch,yashoda.buch@nexora.com,Female,1987-07-22,2023-05-09,1,Software Engineer,0,1001,Kochi,Full-time,Active,3
+1125,Idika,Biswas,idika.biswas@nexora.com,Female,1986-03-25,2023-03-08,1,Senior Software Engineer,1,1001,Kochi,Full-time,Resigned,7
+1126,Bhavna,Keer,bhavna.keer@nexora.com,Female,1988-12-10,2025-02-04,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,1
+1127,Saksham,Dar,saksham.dar@nexora.com,Male,1992-01-09,2025-01-13,3,QA Engineer,0,1003,Kochi,Full-time,On Leave,2
+1128,Krishna,Baral,krishna.baral@nexora.com,Female,1998-11-12,2022-07-28,3,Senior QA Engineer,1,1003,Kochi,Full-time,Active,5
+1129,Chaitaly,Saini,chaitaly.saini@nexora.com,Female,1991-12-17,2024-03-20,5,Accountant,0,1005,Mumbai,Full-time,Active,3
+1130,Nakul,Lal,nakul.lal@nexora.com,Male,1992-11-02,2020-12-04,1,Senior Software Engineer,1,1001,Kochi,Full-time,On Leave,7
+1131,Harsh,Murthy,harsh.murthy@nexora.com,Male,2002-01-19,2022-09-21,8,Support Specialist,1,1008,Chennai,Full-time,Active,4
+1132,Kashvi,Lanka,kashvi.lanka@nexora.com,Female,1999-04-02,2024-11-21,1,Tech Lead,2,1001,Kochi,Intern,Active,11
+1133,Rudra,Deep,rudra.deep@nexora.com,Male,1991-03-01,2022-11-01,2,Senior Data Scientist,2,1002,Bengaluru,Full-time,Active,10
+1134,Mason,Shankar,mason.shankar@nexora.com,Male,1987-01-10,2023-07-21,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,3
+1135,Nakul,Bora,nakul.bora@nexora.com,Male,1986-05-22,2025-05-02,3,QA Engineer,0,1003,Kochi,Full-time,Active,0
+1136,Aayush,Shanker,aayush.shanker@nexora.com,Male,1996-10-03,2023-08-30,6,Account Manager,1,1006,Mumbai,Full-time,Resigned,7
+1137,Daksha,Borah,daksha.borah@nexora.com,Female,1999-07-09,2023-11-23,1,Software Engineer,0,1001,Kochi,Full-time,Active,2
+1138,Hredhaan,Toor,hredhaan.toor@nexora.com,Male,1992-11-05,2024-01-07,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,5
+1139,Kevin,Deo,kevin.deo@nexora.com,Male,1992-05-14,2022-12-22,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,7
+1140,Priya,Biswas,priya.biswas@nexora.com,Female,1989-10-21,2023-03-20,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,6
+1141,Krisha,Pingle,krisha.pingle@nexora.com,Female,1997-02-08,2024-10-25,6,Sales Executive,0,1006,Mumbai,Full-time,Active,1
+1142,Meghana,Dugar,meghana.dugar@nexora.com,Female,2002-04-18,2024-04-03,7,Marketing Executive,0,1007,Bengaluru,Full-time,Active,2
+1143,Theodore,Mittal,theodore.mittal@nexora.com,Male,2001-10-16,2026-04-09,7,Content Strategist,1,1007,Bengaluru,Full-time,Active,6
+1144,Zarna,Anand,zarna.anand@nexora.com,Female,1996-04-12,2023-07-16,1,Software Engineer,0,1001,Kochi,Full-time,Active,3
+1145,Netra,Chawla,netra.chawla@nexora.com,Female,2000-12-15,2026-03-11,8,Support Specialist,1,1008,Chennai,Full-time,On Leave,5
+1146,Ekalinga,Lalla,ekalinga.lalla@nexora.com,Male,1989-12-24,2024-10-23,6,Sales Executive,0,1006,Mumbai,Full-time,Resigned,1
+1147,Devika,Chhabra,devika.chhabra@nexora.com,Female,1985-08-19,2016-09-01,7,Marketing Lead,2,1007,Bengaluru,Full-time,Active,10
+1148,Faras,Magar,faras.magar@nexora.com,Male,1988-02-11,2024-05-25,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,4
+1149,Lohit,Kade,lohit.kade@nexora.com,Male,1998-08-28,2024-04-14,2,Data Scientist,1,1002,Bengaluru,Full-time,Resigned,3
+1150,Onveer,Jani,onveer.jani@nexora.com,Male,2003-10-08,2025-01-11,1,Software Engineer,0,1001,Kochi,Contract,Active,2
+1151,Libni,Tiwari,libni.tiwari@nexora.com,Female,1994-05-06,2024-12-29,3,QA Engineer,0,1003,Kochi,Full-time,Active,1
+1152,Yash,Krishnamurthy,yash.krishnamurthy@nexora.com,Male,1993-09-05,2024-01-25,4,Senior HR Executive,1,1004,Kochi,Intern,Active,3
+1153,Atharv,Chanda,atharv.chanda@nexora.com,Male,1992-11-26,2025-03-27,1,Software Engineer,0,1001,Kochi,Full-time,Active,0
+1154,Siddharth,Malhotra,siddharth.malhotra@nexora.com,Male,1995-04-08,2022-12-04,6,Sales Executive,0,1006,Mumbai,Full-time,Active,3
+1155,Anya,Aggarwal,anya.aggarwal@nexora.com,Female,1985-10-27,2026-03-06,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,5
+1156,Ojas,De,ojas.de@nexora.com,Male,2001-09-03,2025-04-22,1,Software Engineer,0,1001,Kochi,Full-time,Active,0
+1157,Lekha,Edwin,lekha.edwin@nexora.com,Female,2002-12-21,2025-04-22,8,Support Associate,0,1008,Chennai,Full-time,Active,1
+1158,Vaishnavi,Sane,vaishnavi.sane@nexora.com,Female,1991-11-16,2024-12-22,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,1
+1159,Aayush,Choudhury,aayush.choudhury@nexora.com,Male,1994-10-04,2025-04-21,5,Accountant,0,1005,Mumbai,Full-time,Active,3
+1160,Baljiwan,Dixit,baljiwan.dixit@nexora.com,Male,2000-03-17,2025-08-13,8,Support Lead,2,1008,Chennai,Full-time,Active,9
+1161,Andrew,Pingle,andrew.pingle@nexora.com,Male,1993-05-06,2025-01-03,1,Software Engineer,0,1001,Kochi,Full-time,Resigned,2
+1162,Falak,Sani,falak.sani@nexora.com,Female,1989-03-05,2024-01-25,1,Software Engineer,0,1001,Kochi,Full-time,Active,2
+1163,Eesha,Barman,eesha.barman@nexora.com,Female,1996-01-07,2024-03-07,2,Data Scientist,1,1002,Bengaluru,Full-time,Active,5
+1164,Nikita,Patla,nikita.patla@nexora.com,Female,1997-02-28,2025-03-30,1,Software Engineer,0,1001,Kochi,Full-time,Active,1
+1165,Anmol,Parmar,anmol.parmar@nexora.com,Male,1990-04-24,2024-11-20,1,Software Engineer,0,1001,Kochi,Full-time,Active,1
+1166,Henry,Krish,henry.krish@nexora.com,Male,1993-12-06,2020-09-19,1,Senior Software Engineer,1,1001,Kochi,Intern,Active,6
+1167,Charan,Pandya,charan.pandya@nexora.com,Male,1995-06-14,2026-04-25,5,Financial Analyst,1,1005,Mumbai,Full-time,Active,7
+1168,Samar,Dubey,samar.dubey@nexora.com,Male,1988-09-10,2021-07-25,2,Senior Data Scientist,2,1002,Bengaluru,Full-time,Active,10
+1169,Jagat,Gaba,jagat.gaba@nexora.com,Male,1999-01-08,2025-04-17,8,Support Associate,0,1008,Chennai,Full-time,Active,2
+1170,Gaurang,Sachar,gaurang.sachar@nexora.com,Male,1997-08-23,2022-07-15,3,Senior QA Engineer,1,1003,Kochi,Full-time,Active,7
+1171,Amaira,Gola,amaira.gola@nexora.com,Female,1999-01-25,2023-11-01,7,Marketing Executive,0,1007,Bengaluru,Full-time,Active,2
+1172,Osha,Sabharwal,osha.sabharwal@nexora.com,Female,1994-04-28,2024-10-15,4,HR Executive,0,1004,Kochi,Full-time,Active,1
+1173,Kritika,Loke,kritika.loke@nexora.com,Female,1996-07-20,2025-08-06,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,5
+1174,Fariq,Chokshi,fariq.chokshi@nexora.com,Male,1998-10-21,2024-07-24,2,Data Analyst,0,1002,Bengaluru,Full-time,Resigned,2
+1175,Sai,Barad,sai.barad@nexora.com,Female,1996-07-18,2016-10-14,8,Support Lead,2,1008,Chennai,Full-time,Active,12
+1176,Vrinda,Kapadia,vrinda.kapadia@nexora.com,Female,1986-02-03,2025-09-19,7,Marketing Executive,0,1007,Bengaluru,Full-time,Active,0
+1177,Harish,Sharma,harish.sharma@nexora.com,Male,1990-12-07,2019-11-01,3,QA Lead,2,1003,Kochi,Full-time,Active,11
+1178,Parth,Mody,parth.mody@nexora.com,Male,1996-04-23,2023-07-23,6,Sales Executive,0,1006,Mumbai,Full-time,Active,3
+1179,Jhalak,Kapoor,jhalak.kapoor@nexora.com,Female,1993-03-15,2023-08-26,3,Senior QA Engineer,1,1003,Kochi,Full-time,Active,4
+1180,Advik,Hans,advik.hans@nexora.com,Male,1995-04-02,2025-01-01,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,3
+1181,Sudiksha,Narasimhan,sudiksha.narasimhan@nexora.com,Female,1996-12-09,2025-03-03,7,Marketing Executive,0,1007,Bengaluru,Full-time,Active,2
+1182,Liam,Boase,liam.boase@nexora.com,Male,2001-04-08,2026-03-26,3,QA Engineer,0,1003,Kochi,Contract,Active,0
+1183,Liam,Panchal,liam.panchal@nexora.com,Male,1996-10-04,2025-04-18,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,7
+1184,Ryan,Yadav,ryan.yadav@nexora.com,Male,1988-05-25,2024-03-22,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,4
+1185,Noah,Bala,noah.bala@nexora.com,Male,1999-11-08,2024-04-27,1,Senior Software Engineer,1,1001,Kochi,Full-time,Active,3
+1186,Devika,Lal,devika.lal@nexora.com,Female,2003-01-10,2024-11-01,2,Senior Data Scientist,2,1002,Bengaluru,Full-time,Active,9
+1187,Hemal,Lanka,hemal.lanka@nexora.com,Female,2000-10-23,2024-12-15,4,HR Executive,0,1004,Kochi,Full-time,Active,1
+1188,Anjali,Chopra,anjali.chopra@nexora.com,Female,1993-07-08,2025-05-10,5,Accountant,0,1005,Mumbai,Contract,Active,2
+1189,Urishilla,Pai,urishilla.pai@nexora.com,Female,1994-12-03,2025-07-11,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,1
+1190,Nirja,Sarin,nirja.sarin@nexora.com,Female,1986-02-20,2025-05-23,5,Accountant,0,1005,Mumbai,Full-time,Active,2
+1191,Yashodhara,D’Alia,yashodhara.d’alia@nexora.com,Female,1988-02-01,2023-01-11,3,Senior QA Engineer,1,1003,Kochi,Full-time,Active,3
+1192,Reyansh,Gupta,reyansh.gupta@nexora.com,Male,1999-06-28,2018-12-22,3,QA Lead,2,1003,Kochi,Full-time,Active,10
+1193,Joshua,Basu,joshua.basu@nexora.com,Male,2003-10-15,2025-08-29,6,Account Manager,1,1006,Mumbai,Full-time,Active,7
+1194,Urmi,Agarwal,urmi.agarwal@nexora.com,Female,1998-07-09,2025-06-05,7,Marketing Lead,2,1007,Bengaluru,Full-time,Active,8
+1195,Yoshita,Yohannan,yoshita.yohannan@nexora.com,Female,1988-08-24,2025-01-06,8,Support Associate,0,1008,Chennai,Full-time,Active,3
+1196,Guneet,Patla,guneet.patla@nexora.com,Male,2003-07-20,2024-05-01,4,Senior HR Executive,1,1004,Kochi,Full-time,Active,5
+1197,Upasna,Boase,upasna.boase@nexora.com,Female,1993-08-09,2025-03-05,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,0
+1198,Noah,Murthy,noah.murthy@nexora.com,Male,1986-05-24,2019-01-12,5,Senior Financial Analyst,2,1005,Mumbai,Full-time,Active,12
+1199,Diya,Mital,diya.mital@nexora.com,Female,1987-12-31,2024-05-14,2,Data Analyst,0,1002,Bengaluru,Full-time,Active,2
+1200,Yashica,More,yashica.more@nexora.com,Female,1989-11-25,2023-12-29,2,Senior Data Scientist,2,1002,Bengaluru,Full-time,Active,12

@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1076_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Udyati Kakar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Dashboard"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Atharv Chanda"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Diya Radhakrishnan"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "USED_SKILL",
+   "target": "Deep Learning"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  }
+ ]
+}

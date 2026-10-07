@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1080_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Upkaar Dara",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Upkaar Dara",
+   "relation": "COLLABORATED_WITH",
+   "target": "Yashodhara D\u2019Alia"
+  },
+  {
+   "source": "Upkaar Dara",
+   "relation": "COLLABORATED_WITH",
+   "target": "Upasna Pandya"
+  },
+  {
+   "source": "Upkaar Dara",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "Upkaar Dara",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Upkaar Dara",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Upkaar Dara",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

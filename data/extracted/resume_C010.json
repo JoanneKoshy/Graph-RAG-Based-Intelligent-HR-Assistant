@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C010",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "WAZIR BORA",
+   "relation": "WORKED_AT",
+   "target": "UST Global"
+  },
+  {
+   "source": "WAZIR BORA",
+   "relation": "USED_SKILL",
+   "target": "Go"
+  },
+  {
+   "source": "WAZIR BORA",
+   "relation": "USED_SKILL",
+   "target": "FastAPI"
+  },
+  {
+   "source": "WAZIR BORA",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "WAZIR BORA",
+   "relation": "USED_SKILL",
+   "target": "Java"
+  },
+  {
+   "source": "WAZIR BORA",
+   "relation": "USED_SKILL",
+   "target": "C++"
+  },
+  {
+   "source": "WAZIR BORA",
+   "relation": "STUDIED_AT",
+   "target": "Anna University"
+  }
+ ]
+}

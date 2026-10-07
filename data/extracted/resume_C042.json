@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C042",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "FIYAZ CONTRACTOR",
+   "relation": "WORKED_AT",
+   "target": "TCS"
+  },
+  {
+   "source": "FIYAZ CONTRACTOR",
+   "relation": "STUDIED_AT",
+   "target": "Christ University"
+  },
+  {
+   "source": "FIYAZ CONTRACTOR",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "FIYAZ CONTRACTOR",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "FIYAZ CONTRACTOR",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  }
+ ]
+}

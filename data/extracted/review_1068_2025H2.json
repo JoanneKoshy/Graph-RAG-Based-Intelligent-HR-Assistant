@@ -1,0 +1,51 @@
+{
+ "doc_id": "review_1068_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Radhika Mohanty",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Dashboard"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "COLLABORATED_WITH",
+   "target": "Atharv Chanda"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "COLLABORATED_WITH",
+   "target": "Diya Radhakrishnan"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "USED_SKILL",
+   "target": "Spring Boot"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "INTERESTED_IN",
+   "target": "Customer Support"
+  }
+ ]
+}

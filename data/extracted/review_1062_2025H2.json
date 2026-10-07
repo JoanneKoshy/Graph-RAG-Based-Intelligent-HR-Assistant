@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1062_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Zehaan Issac",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Zehaan Issac",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Zehaan Issac",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

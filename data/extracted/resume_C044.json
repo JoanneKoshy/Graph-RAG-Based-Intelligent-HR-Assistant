@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C044",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "RIYA RANGANATHAN",
+   "relation": "WORKED_AT",
+   "target": "Infosys"
+  },
+  {
+   "source": "RIYA RANGANATHAN",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "RIYA RANGANATHAN",
+   "relation": "USED_SKILL",
+   "target": "React"
+  },
+  {
+   "source": "RIYA RANGANATHAN",
+   "relation": "USED_SKILL",
+   "target": "FastAPI"
+  },
+  {
+   "source": "RIYA RANGANATHAN",
+   "relation": "USED_SKILL",
+   "target": "Azure"
+  }
+ ]
+}

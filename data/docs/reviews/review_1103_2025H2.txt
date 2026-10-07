@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Siddharth Goswami (ID 1103)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Siddharth's performance this cycle was below expectations.
+Siddharth contributed to the Echo Payment Gateway project for MetroMart, working closely with Rajata Gaba, Zarna Anand.
+Their work with Java on this project was adequate but needs more depth.
+Key strengths observed: teamwork and leadership.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

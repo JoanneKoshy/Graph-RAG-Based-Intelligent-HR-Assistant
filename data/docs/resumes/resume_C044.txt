@@ -1,0 +1,18 @@
+RIYA RANGANATHAN
+Applying for: Software Engineer
+Email: riya.ranganathan@mail.com | Aurangabad
+
+SUMMARY
+8 years of experience, most recently at Infosys.
+
+SKILLS
+React, FastAPI, Azure
+
+EDUCATION
+B.Tech in Electronics, MITS Kochi
+
+EXPERIENCE
+- Infosys: 8 years, focused on React and FastAPI.
+
+ACHIEVEMENTS
+- Won a state-level hackathon.

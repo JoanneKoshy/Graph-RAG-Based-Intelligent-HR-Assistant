@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C029",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Tejas Sunder",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "Tejas Sunder",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "Tejas Sunder",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "Tejas Sunder",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "Tejas Sunder",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "Tejas Sunder",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  }
+ ]
+}

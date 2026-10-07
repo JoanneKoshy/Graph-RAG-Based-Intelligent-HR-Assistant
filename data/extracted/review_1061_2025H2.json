@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1061_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Damyanti Misra",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Damyanti Misra",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Damyanti Misra",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

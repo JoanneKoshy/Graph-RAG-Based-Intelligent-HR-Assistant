@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1099_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Tamanna Nori",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  },
+  {
+   "source": "Tamanna Nori",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Tamanna Nori",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  }
+ ]
+}

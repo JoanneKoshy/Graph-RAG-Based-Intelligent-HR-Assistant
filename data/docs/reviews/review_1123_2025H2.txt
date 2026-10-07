@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Farhan Bhandari (ID 1123)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Farhan's performance this cycle was satisfactory.
+Farhan contributed to the Atlas Mobile App project for GreenGrid Energy, working closely with Garima Kale, Devika Chhabra.
+Their work with Kubernetes on this project was adequate but needs more depth.
+Key strengths observed: teamwork and communication.
+Areas for improvement: deeper technical ownership and documentation.

@@ -1,0 +1,9 @@
+PROJECT REPORT: Apex Portal
+Client: GreenGrid Energy | Owning department: Data Science | Status: Completed
+Start date: 2026-06-18
+
+The Apex Portal project is led by Gaurav Tripathi. The technology stack includes NLP, Deep Learning, Machine Learning, Data Analysis.
+Team members: Ladli Apte (Tester); Bhavna Keer (Reviewer); Upasna Boase (Tester); Jagat Mallick (Contributor); Balendra Bhargava (Reviewer); Gaurav Tripathi (Project Lead).
+The project was delivered on 2026-08-21 and the client feedback was excellent.
+The main risk identified was a shortage of senior reviewers.
+Special recognition goes to Bhavna Keer for going beyond their assigned role.

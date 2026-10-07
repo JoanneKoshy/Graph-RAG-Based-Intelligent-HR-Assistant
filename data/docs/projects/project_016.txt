@@ -1,0 +1,9 @@
+PROJECT REPORT: Quantum Migration
+Client: Sunrise Bank | Owning department: Data Science | Status: Ongoing
+Start date: 2024-04-21
+
+The Quantum Migration project is led by Harish Sharma. The technology stack includes Docker, Spark, SQL, Tableau.
+Team members: Aadhya Ramakrishnan (Tester); Udyati Roy (Reviewer); Upasna Boase (Analyst); Widisha Dubey (Developer); Urishilla Dugar (Developer); Fitan Raghavan (Developer); Liam Boase (Reviewer); Harish Sharma (Project Lead).
+The project is currently about 64% complete.
+The main risk identified was a shortage of senior reviewers.
+Special recognition goes to Harish Sharma for going beyond their assigned role.

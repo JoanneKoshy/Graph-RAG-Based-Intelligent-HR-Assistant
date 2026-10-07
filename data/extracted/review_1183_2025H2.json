@@ -1,0 +1,31 @@
+{
+ "doc_id": "review_1183_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Liam Panchal",
+   "relation": "MENTORS",
+   "target": "Arjun Choudhary"
+  },
+  {
+   "source": "Liam Panchal",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Liam Panchal",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Liam Panchal",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  },
+  {
+   "source": "Liam Panchal",
+   "relation": "INTERESTED_IN",
+   "target": "Marketing"
+  }
+ ]
+}

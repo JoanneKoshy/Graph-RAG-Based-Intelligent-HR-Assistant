@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Samar Dubey (ID 1168)
+Designation: Senior Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Samar's performance this cycle was below expectations.
+Samar contributed to the Cobalt Migration project for MetroMart, working closely with Eesha Barman, Fitan Raghavan.
+Their work with Spark on this project was adequate but needs more depth.
+Key strengths observed: problem solving and mentoring.
+Samar has been mentoring Mason Shankar, who has shown clear improvement as a result.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

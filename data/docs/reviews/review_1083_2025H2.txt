@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Advaith Karpe (ID 1083)
+Designation: QA Lead, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Advaith's performance this cycle was satisfactory.
+Advaith contributed to the Cobalt Migration project for MetroMart, working closely with Eesha Barman, Fitan Raghavan.
+Their work with Java on this project was adequate but needs more depth.
+Key strengths observed: adaptability and client handling.
+Areas for improvement: deeper technical ownership and documentation.

@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Jason Gade (ID 1032)
+Designation: Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Jason's performance this cycle was satisfactory.
+Jason contributed to the Atlas Data Lake project for Internal, working closely with Ganga Prakash, Januja Devi.
+Their work with Docker on this project was adequate but needs more depth.
+Key strengths observed: mentoring and time management.
+Jason has been mentoring Advika Chander, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

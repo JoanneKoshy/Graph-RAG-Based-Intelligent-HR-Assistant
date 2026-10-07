@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C016",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "NITARA SAVANT",
+   "relation": "WORKED_AT",
+   "target": "Infosys"
+  },
+  {
+   "source": "NITARA SAVANT",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "NITARA SAVANT",
+   "relation": "USED_SKILL",
+   "target": "Selenium"
+  },
+  {
+   "source": "NITARA SAVANT",
+   "relation": "USED_SKILL",
+   "target": "Java"
+  },
+  {
+   "source": "NITARA SAVANT",
+   "relation": "USED_SKILL",
+   "target": "Manual Testing"
+  },
+  {
+   "source": "NITARA SAVANT",
+   "relation": "USED_SKILL",
+   "target": "Performance Testing"
+  },
+  {
+   "source": "NITARA SAVANT",
+   "relation": "USED_SKILL",
+   "target": "Test Automation"
+  }
+ ]
+}

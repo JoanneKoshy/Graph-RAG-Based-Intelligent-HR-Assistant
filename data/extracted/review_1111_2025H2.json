@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1111_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Warda Kala",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Chatbot"
+  },
+  {
+   "source": "Warda Kala",
+   "relation": "COLLABORATED_WITH",
+   "target": "Chatura Kothari"
+  },
+  {
+   "source": "Warda Kala",
+   "relation": "COLLABORATED_WITH",
+   "target": "Krisha Pingle"
+  },
+  {
+   "source": "Warda Kala",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Warda Kala",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Warda Kala",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Lopa Kanda (ID 1034)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Lopa's performance this cycle was satisfactory.
+Lopa contributed to the Vega Migration project for EduSpark, working closely with Siddharth Goswami, Kashvi Lanka.
+Their work with TypeScript on this project was adequate but needs more depth.
+Key strengths observed: leadership and client handling.
+Areas for improvement: deeper technical ownership and documentation.

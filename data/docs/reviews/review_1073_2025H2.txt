@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Edhitha Dave (ID 1073)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Edhitha's performance this cycle was satisfactory.
+Edhitha contributed to the Nimbus Mobile App project for GreenGrid Energy, working closely with Zarna Anand, Atharv Chanda.
+Their work with C++ on this project was adequate but needs more depth.
+Key strengths observed: teamwork and problem solving.
+Areas for improvement: deeper technical ownership and documentation.

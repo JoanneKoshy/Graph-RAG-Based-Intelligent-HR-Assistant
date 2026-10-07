@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Samar Gupta (ID 1093)
+Designation: Senior QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Samar's performance this cycle was satisfactory.
+Samar contributed to the Orion Payment Gateway project for Internal, working closely with Reva Pant, Maya Setty.
+Their work with Test Automation on this project was adequate but needs more depth.
+Key strengths observed: leadership and mentoring.
+Areas for improvement: deeper technical ownership and documentation.

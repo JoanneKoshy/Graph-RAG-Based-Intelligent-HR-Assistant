@@ -1,0 +1,26 @@
+{
+ "doc_id": "review_1010_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Januja Sen",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Januja Sen",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Januja Sen",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  },
+  {
+   "source": "Januja Sen",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  }
+ ]
+}

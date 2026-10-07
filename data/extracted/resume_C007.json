@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C007",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "BRIJESH MANDER",
+   "relation": "LED",
+   "target": "college project"
+  },
+  {
+   "source": "BRIJESH MANDER",
+   "relation": "USED_SKILL",
+   "target": "CI/CD"
+  },
+  {
+   "source": "BRIJESH MANDER",
+   "relation": "USED_SKILL",
+   "target": "Docker"
+  },
+  {
+   "source": "BRIJESH MANDER",
+   "relation": "USED_SKILL",
+   "target": "Azure"
+  },
+  {
+   "source": "BRIJESH MANDER",
+   "relation": "USED_SKILL",
+   "target": "Angular"
+  },
+  {
+   "source": "BRIJESH MANDER",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  }
+ ]
+}

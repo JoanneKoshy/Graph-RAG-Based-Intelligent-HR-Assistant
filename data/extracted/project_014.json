@@ -1,0 +1,56 @@
+{
+ "doc_id": "project_014",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Januja Devi",
+   "relation": "LED",
+   "target": "Atlas Data Lake"
+  },
+  {
+   "source": "Atlas Data Lake",
+   "relation": "PROJECT_USES",
+   "target": "NLP"
+  },
+  {
+   "source": "Atlas Data Lake",
+   "relation": "PROJECT_USES",
+   "target": "AWS"
+  },
+  {
+   "source": "Atlas Data Lake",
+   "relation": "PROJECT_USES",
+   "target": "Spark"
+  },
+  {
+   "source": "Atlas Data Lake",
+   "relation": "PROJECT_USES",
+   "target": "Deep Learning"
+  },
+  {
+   "source": "Widisha Dubey",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Data Lake"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Data Lake"
+  },
+  {
+   "source": "Diya Radhakrishnan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Data Lake"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "RECOGNIZED_ON",
+   "target": "Atlas Data Lake"
+  },
+  {
+   "source": "Atlas Data Lake",
+   "relation": "HAS_RISK",
+   "target": "data quality issues in the source systems"
+  }
+ ]
+}

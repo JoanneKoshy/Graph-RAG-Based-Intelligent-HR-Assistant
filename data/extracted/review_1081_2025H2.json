@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1081_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Krishna Kar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Krishna Kar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Daksha Borah"
+  },
+  {
+   "source": "Krishna Kar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Henry Loke"
+  },
+  {
+   "source": "Krishna Kar",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Krishna Kar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Krishna Kar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Krishna Kar",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

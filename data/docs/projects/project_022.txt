@@ -1,0 +1,9 @@
+PROJECT REPORT: Helix Mobile App
+Client: Internal | Owning department: Sales | Status: Completed
+Start date: 2026-04-03
+
+The Helix Mobile App project is led by Joshua Basu. The technology stack includes Negotiation, CRM, Customer Service, Data Analysis.
+Team members: Ganga Dutta (Developer); Parth Mody (Tester); Krisha Pingle (Contributor); Joshua Basu (Project Lead); Champak Chatterjee (Analyst).
+The project was delivered on 2026-09-15 and the client feedback was excellent.
+The main risk identified was data quality issues in the source systems.
+Special recognition goes to Joshua Basu for going beyond their assigned role.

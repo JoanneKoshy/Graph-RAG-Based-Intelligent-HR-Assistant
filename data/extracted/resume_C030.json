@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C030",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Om Ravel",
+   "relation": "WORKED_AT",
+   "target": "Infosys"
+  },
+  {
+   "source": "Om Ravel",
+   "relation": "STUDIED_AT",
+   "target": "CUSAT"
+  },
+  {
+   "source": "Om Ravel",
+   "relation": "USED_SKILL",
+   "target": "Recruitment"
+  },
+  {
+   "source": "Om Ravel",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "Om Ravel",
+   "relation": "USED_SKILL",
+   "target": "Employee Relations"
+  }
+ ]
+}

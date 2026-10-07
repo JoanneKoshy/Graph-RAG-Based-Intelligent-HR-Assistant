@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1116_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Luke Sampath",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Portal"
+  },
+  {
+   "source": "Luke Sampath",
+   "relation": "COLLABORATED_WITH",
+   "target": "Advik Hans"
+  },
+  {
+   "source": "Luke Sampath",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ojas De"
+  },
+  {
+   "source": "Luke Sampath",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Luke Sampath",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Luke Sampath",
+   "relation": "MENTORS",
+   "target": "Mason Shankar"
+  },
+  {
+   "source": "Luke Sampath",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

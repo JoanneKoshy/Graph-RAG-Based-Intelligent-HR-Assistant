@@ -1,0 +1,9 @@
+PROJECT REPORT: Phoenix Portal
+Client: MetroMart | Owning department: Data Science | Status: Completed
+Start date: 2025-12-22
+
+The Phoenix Portal project is led by Reyansh Gupta. The technology stack includes SQL, Machine Learning, Spark, NLP.
+Team members: Upasna Boase (Reviewer); Ladli Apte (Reviewer); Champak Chatterjee (Analyst); Henry Loke (Tester); Reyansh Gupta (Project Lead).
+The project was delivered on 2026-08-26 and the client feedback was excellent.
+The main risk identified was unstable test environments.
+Special recognition goes to Henry Loke for going beyond their assigned role.

@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1103_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Siddharth Goswami",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  },
+  {
+   "source": "Siddharth Goswami",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Siddharth Goswami",
+   "relation": "COLLABORATED_WITH",
+   "target": "Rajata Gaba"
+  },
+  {
+   "source": "Siddharth Goswami",
+   "relation": "COLLABORATED_WITH",
+   "target": "Zarna Anand"
+  },
+  {
+   "source": "Siddharth Goswami",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Siddharth Goswami",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  }
+ ]
+}

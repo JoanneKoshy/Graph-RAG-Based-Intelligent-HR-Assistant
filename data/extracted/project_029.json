@@ -1,0 +1,61 @@
+{
+ "doc_id": "project_029",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Reyansh Gupta",
+   "relation": "LED",
+   "target": "Phoenix Portal"
+  },
+  {
+   "source": "Phoenix Portal",
+   "relation": "PROJECT_USES",
+   "target": "SQL"
+  },
+  {
+   "source": "Phoenix Portal",
+   "relation": "PROJECT_USES",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "Phoenix Portal",
+   "relation": "PROJECT_USES",
+   "target": "Spark"
+  },
+  {
+   "source": "Phoenix Portal",
+   "relation": "PROJECT_USES",
+   "target": "NLP"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Portal"
+  },
+  {
+   "source": "Ladli Apte",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Portal"
+  },
+  {
+   "source": "Champak Chatterjee",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Portal"
+  },
+  {
+   "source": "Henry Loke",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Portal"
+  },
+  {
+   "source": "Phoenix Portal",
+   "relation": "HAS_RISK",
+   "target": "unstable test environments"
+  },
+  {
+   "source": "Henry Loke",
+   "relation": "RECOGNIZED_ON",
+   "target": "Phoenix Portal"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C031",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Eesha Walla",
+   "relation": "USED_SKILL",
+   "target": "FastAPI"
+  },
+  {
+   "source": "Eesha Walla",
+   "relation": "USED_SKILL",
+   "target": "Kubernetes"
+  },
+  {
+   "source": "Eesha Walla",
+   "relation": "USED_SKILL",
+   "target": "Angular"
+  },
+  {
+   "source": "Eesha Walla",
+   "relation": "USED_SKILL",
+   "target": "React"
+  },
+  {
+   "source": "Eesha Walla",
+   "relation": "STUDIED_AT",
+   "target": "CUSAT"
+  }
+ ]
+}

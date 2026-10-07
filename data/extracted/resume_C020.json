@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C020",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "BRINDA MANGAL",
+   "relation": "WORKED_AT",
+   "target": "Freshworks"
+  },
+  {
+   "source": "BRINDA MANGAL",
+   "relation": "STUDIED_AT",
+   "target": "NIT Calicut"
+  },
+  {
+   "source": "BRINDA MANGAL",
+   "relation": "USED_SKILL",
+   "target": "Spark"
+  },
+  {
+   "source": "BRINDA MANGAL",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "BRINDA MANGAL",
+   "relation": "USED_SKILL",
+   "target": "Docker"
+  },
+  {
+   "source": "BRINDA MANGAL",
+   "relation": "USED_SKILL",
+   "target": "AWS"
+  }
+ ]
+}

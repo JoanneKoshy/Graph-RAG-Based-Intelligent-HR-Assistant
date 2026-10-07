@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1088_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Bimala Varkey",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Bimala Varkey",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Bimala Varkey",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1037_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Nakul Rattan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Nakul Rattan",
+   "relation": "COLLABORATED_WITH",
+   "target": "Garima Kale"
+  },
+  {
+   "source": "Nakul Rattan",
+   "relation": "COLLABORATED_WITH",
+   "target": "Devika Chhabra"
+  },
+  {
+   "source": "Nakul Rattan",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "Nakul Rattan",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Nakul Rattan",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Nakul Rattan",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

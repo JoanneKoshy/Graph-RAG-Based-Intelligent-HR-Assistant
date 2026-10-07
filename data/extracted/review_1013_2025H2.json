@@ -1,0 +1,46 @@
+{
+ "doc_id": "review_1013_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Onkar Mall",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix CRM Revamp"
+  },
+  {
+   "source": "Onkar Mall",
+   "relation": "COLLABORATED_WITH",
+   "target": "Meghana Dugar"
+  },
+  {
+   "source": "Onkar Mall",
+   "relation": "COLLABORATED_WITH",
+   "target": "Vedhika Raghavan"
+  },
+  {
+   "source": "Onkar Mall",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "Onkar Mall",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Onkar Mall",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Onkar Mall",
+   "relation": "MENTORS",
+   "target": "Amaira Gola"
+  },
+  {
+   "source": "Onkar Mall",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

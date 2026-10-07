@@ -1,0 +1,9 @@
+PROJECT REPORT: Helix Automation Suite
+Client: Sunrise Bank | Owning department: Data Science | Status: Completed
+Start date: 2025-04-01
+
+The Helix Automation Suite project is led by Harish Sharma. The technology stack includes SQL, Machine Learning, Deep Learning, Python.
+Team members: Eesha Barman (Contributor); Devika Lal (Reviewer); Diya Mital (Tester); Harish Sharma (Project Lead).
+The project was delivered on 2025-09-30 and the client feedback was positive.
+The main risk identified was data quality issues in the source systems.
+Special recognition goes to Eesha Barman for going beyond their assigned role.

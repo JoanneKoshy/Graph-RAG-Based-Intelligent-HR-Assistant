@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Yashoda Buch (ID 1124)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Yashoda's performance this cycle was satisfactory.
+Yashoda contributed to the Atlas Portal project for GreenGrid Energy, working closely with Advik Hans, Ojas De.
+Their work with Kubernetes on this project was adequate but needs more depth.
+Key strengths observed: adaptability and teamwork.
+Areas for improvement: deeper technical ownership and documentation.

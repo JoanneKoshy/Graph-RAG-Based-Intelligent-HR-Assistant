@@ -1,0 +1,9 @@
+PROJECT REPORT: Atlas Portal
+Client: GreenGrid Energy | Owning department: Engineering | Status: Ongoing
+Start date: 2026-06-25
+
+The Atlas Portal project is led by Luke Sampath. The technology stack includes AWS, C++, JavaScript, Docker.
+Team members: Advik Hans (Tester); Ojas De (Analyst); Libni Sha (Contributor); Falak Sani (Reviewer); Jagvi Tata (Reviewer); Yashoda Buch (Contributor); Luke Sampath (Project Lead); Liam Boase (Reviewer).
+The project is currently about 39% complete.
+The main risk identified was a shortage of senior reviewers.
+Special recognition goes to Falak Sani for going beyond their assigned role.

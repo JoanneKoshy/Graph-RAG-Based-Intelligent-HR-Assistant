@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1161_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Andrew Pingle",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Andrew Pingle",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Andrew Pingle",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

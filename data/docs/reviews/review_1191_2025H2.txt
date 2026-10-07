@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Yashodhara D’Alia (ID 1191)
+Designation: Senior QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Yashodhara's performance this cycle was satisfactory.
+Yashodhara contributed to the Phoenix CRM Revamp project for GreenGrid Energy, working closely with Upasna Pandya, Chavvi Bhat.
+Their work with CI/CD on this project was adequate but needs more depth.
+Key strengths observed: communication and adaptability.
+Yashodhara has been mentoring Jyoti Bir, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

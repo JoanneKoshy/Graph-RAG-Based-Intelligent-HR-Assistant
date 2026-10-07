@@ -1,0 +1,9 @@
+PROJECT REPORT: Aurora Payment Gateway
+Client: EduSpark | Owning department: Engineering | Status: Completed
+Start date: 2025-05-01
+
+The Aurora Payment Gateway project is led by Krishna Kar. The technology stack includes Azure, Go, Node.js, Spring Boot.
+Team members: Daksha Borah (Reviewer); Henry Loke (Analyst); Vaishnavi Chaudhari (Tester); Noah Bala (Contributor); Krishna Kar (Project Lead).
+The project was delivered on 2026-04-01 and the client feedback was mixed.
+The main risk identified was scope creep from late client requirements.
+Special recognition goes to Henry Loke for going beyond their assigned role.

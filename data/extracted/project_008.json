@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_008",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Vivaan Bhagat",
+   "relation": "LED",
+   "target": "Helix CRM Revamp"
+  },
+  {
+   "source": "Meghana Dugar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix CRM Revamp"
+  },
+  {
+   "source": "Vedhika Raghavan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix CRM Revamp"
+  },
+  {
+   "source": "Theodore Mittal",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix CRM Revamp"
+  },
+  {
+   "source": "Onkar Mall",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix CRM Revamp"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix CRM Revamp"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "RECOGNIZED_ON",
+   "target": "Helix CRM Revamp"
+  },
+  {
+   "source": "Helix CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Content Writing"
+  },
+  {
+   "source": "Helix CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Tableau"
+  },
+  {
+   "source": "Helix CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Helix CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "SEO"
+  },
+  {
+   "source": "Helix CRM Revamp",
+   "relation": "HAS_RISK",
+   "target": "data quality issues in the source systems"
+  }
+ ]
+}

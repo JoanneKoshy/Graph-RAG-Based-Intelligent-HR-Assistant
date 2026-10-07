@@ -1,0 +1,42 @@
+skill_id,name,category
+1,Python,Programming
+2,Java,Programming
+3,JavaScript,Programming
+4,TypeScript,Programming
+5,C++,Programming
+6,Go,Programming
+7,SQL,Programming
+8,React,Web
+9,Angular,Web
+10,Node.js,Web
+11,Django,Web
+12,FastAPI,Web
+13,Spring Boot,Web
+14,Machine Learning,Data
+15,Deep Learning,Data
+16,NLP,Data
+17,Data Analysis,Data
+18,Power BI,Data
+19,Tableau,Data
+20,Spark,Data
+21,AWS,Cloud & DevOps
+22,Azure,Cloud & DevOps
+23,Docker,Cloud & DevOps
+24,Kubernetes,Cloud & DevOps
+25,CI/CD,Cloud & DevOps
+26,Selenium,Testing
+27,Manual Testing,Testing
+28,Test Automation,Testing
+29,Performance Testing,Testing
+30,Recruitment,Business
+31,Payroll Processing,Business
+32,Employee Relations,Business
+33,Accounting,Business
+34,Financial Analysis,Business
+35,Negotiation,Business
+36,CRM,Business
+37,SEO,Business
+38,Content Writing,Business
+39,Digital Marketing,Business
+40,Customer Service,Business
+41,Ticketing Systems,Business

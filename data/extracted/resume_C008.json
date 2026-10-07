@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C008",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "KAMYA MUKHERJEE",
+   "relation": "WORKED_AT",
+   "target": "TCS"
+  },
+  {
+   "source": "KAMYA MUKHERJEE",
+   "relation": "USED_SKILL",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "KAMYA MUKHERJEE",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "KAMYA MUKHERJEE",
+   "relation": "USED_SKILL",
+   "target": "SEO"
+  },
+  {
+   "source": "KAMYA MUKHERJEE",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "KAMYA MUKHERJEE",
+   "relation": "USED_SKILL",
+   "target": "Content Writing"
+  },
+  {
+   "source": "KAMYA MUKHERJEE",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  }
+ ]
+}

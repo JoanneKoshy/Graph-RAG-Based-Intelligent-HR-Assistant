@@ -1,0 +1,16 @@
+{
+ "doc_id": "review_1164_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Nikita Patla",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Nikita Patla",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  }
+ ]
+}

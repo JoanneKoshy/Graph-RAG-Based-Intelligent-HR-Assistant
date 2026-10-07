@@ -1,0 +1,351 @@
+emp_id,soft_skill
+1009,leadership
+1009,time management
+1010,mentoring
+1010,client handling
+1012,problem solving
+1012,leadership
+1013,leadership
+1013,teamwork
+1014,problem solving
+1014,leadership
+1015,problem solving
+1015,teamwork
+1016,mentoring
+1016,problem solving
+1017,communication
+1017,problem solving
+1018,adaptability
+1018,leadership
+1019,leadership
+1019,problem solving
+1020,communication
+1020,client handling
+1021,problem solving
+1021,teamwork
+1022,problem solving
+1022,time management
+1023,client handling
+1023,adaptability
+1024,client handling
+1024,adaptability
+1025,communication
+1025,mentoring
+1026,communication
+1026,teamwork
+1027,leadership
+1027,adaptability
+1028,mentoring
+1028,teamwork
+1029,teamwork
+1029,problem solving
+1031,teamwork
+1031,problem solving
+1032,mentoring
+1032,time management
+1033,problem solving
+1033,communication
+1034,leadership
+1034,client handling
+1035,problem solving
+1035,mentoring
+1036,leadership
+1036,teamwork
+1037,time management
+1037,problem solving
+1039,time management
+1039,mentoring
+1040,communication
+1040,mentoring
+1042,problem solving
+1042,communication
+1043,mentoring
+1043,problem solving
+1044,leadership
+1044,mentoring
+1045,problem solving
+1045,communication
+1046,client handling
+1046,mentoring
+1047,communication
+1047,adaptability
+1048,time management
+1048,communication
+1049,leadership
+1049,mentoring
+1050,communication
+1050,problem solving
+1051,problem solving
+1051,mentoring
+1052,mentoring
+1052,client handling
+1053,time management
+1053,teamwork
+1055,time management
+1055,problem solving
+1057,teamwork
+1057,client handling
+1058,teamwork
+1058,time management
+1059,leadership
+1059,client handling
+1060,adaptability
+1060,problem solving
+1061,leadership
+1061,mentoring
+1062,communication
+1062,problem solving
+1063,time management
+1063,communication
+1064,adaptability
+1064,leadership
+1065,client handling
+1065,teamwork
+1067,client handling
+1067,problem solving
+1068,leadership
+1068,problem solving
+1069,teamwork
+1069,client handling
+1071,teamwork
+1071,communication
+1072,problem solving
+1072,mentoring
+1073,teamwork
+1073,problem solving
+1075,client handling
+1075,problem solving
+1076,adaptability
+1076,communication
+1077,time management
+1077,teamwork
+1078,teamwork
+1078,mentoring
+1079,mentoring
+1079,teamwork
+1080,leadership
+1080,problem solving
+1081,communication
+1081,leadership
+1082,leadership
+1082,problem solving
+1083,adaptability
+1083,client handling
+1084,teamwork
+1084,leadership
+1085,teamwork
+1085,client handling
+1086,teamwork
+1086,communication
+1087,time management
+1087,adaptability
+1088,client handling
+1088,adaptability
+1090,adaptability
+1090,leadership
+1091,problem solving
+1091,mentoring
+1093,leadership
+1093,mentoring
+1094,client handling
+1094,problem solving
+1095,adaptability
+1095,client handling
+1096,mentoring
+1096,problem solving
+1098,leadership
+1098,problem solving
+1099,adaptability
+1099,leadership
+1100,teamwork
+1100,mentoring
+1101,communication
+1101,problem solving
+1102,leadership
+1102,client handling
+1103,teamwork
+1103,leadership
+1104,teamwork
+1104,communication
+1105,client handling
+1105,communication
+1106,adaptability
+1106,communication
+1107,mentoring
+1107,time management
+1108,leadership
+1108,time management
+1109,teamwork
+1109,communication
+1110,mentoring
+1110,problem solving
+1111,communication
+1111,time management
+1112,time management
+1112,leadership
+1113,communication
+1113,leadership
+1114,communication
+1114,time management
+1115,mentoring
+1115,client handling
+1116,time management
+1116,client handling
+1117,leadership
+1117,client handling
+1118,adaptability
+1118,client handling
+1119,adaptability
+1119,mentoring
+1120,adaptability
+1120,communication
+1121,teamwork
+1121,leadership
+1122,mentoring
+1122,problem solving
+1123,teamwork
+1123,communication
+1124,adaptability
+1124,teamwork
+1125,leadership
+1125,time management
+1126,adaptability
+1126,problem solving
+1127,adaptability
+1127,problem solving
+1128,mentoring
+1128,time management
+1129,teamwork
+1129,adaptability
+1130,problem solving
+1130,adaptability
+1131,client handling
+1131,adaptability
+1132,teamwork
+1132,client handling
+1133,communication
+1133,client handling
+1134,client handling
+1134,mentoring
+1135,mentoring
+1135,client handling
+1136,adaptability
+1136,time management
+1137,teamwork
+1137,mentoring
+1138,client handling
+1138,teamwork
+1139,mentoring
+1139,leadership
+1140,problem solving
+1140,client handling
+1141,time management
+1141,mentoring
+1142,problem solving
+1142,mentoring
+1144,leadership
+1144,teamwork
+1146,time management
+1146,communication
+1147,client handling
+1147,leadership
+1148,adaptability
+1148,leadership
+1149,teamwork
+1149,time management
+1150,problem solving
+1150,teamwork
+1151,client handling
+1151,communication
+1152,leadership
+1152,time management
+1153,communication
+1153,client handling
+1154,time management
+1154,problem solving
+1156,client handling
+1156,communication
+1157,adaptability
+1157,mentoring
+1158,time management
+1158,leadership
+1159,leadership
+1159,client handling
+1160,leadership
+1160,mentoring
+1161,teamwork
+1161,communication
+1162,client handling
+1162,time management
+1163,communication
+1163,adaptability
+1164,time management
+1164,communication
+1165,adaptability
+1165,communication
+1166,client handling
+1166,leadership
+1168,problem solving
+1168,mentoring
+1169,leadership
+1169,adaptability
+1170,adaptability
+1170,mentoring
+1171,time management
+1171,mentoring
+1172,leadership
+1172,teamwork
+1173,leadership
+1173,communication
+1174,mentoring
+1174,time management
+1175,leadership
+1175,client handling
+1176,communication
+1176,time management
+1177,teamwork
+1177,mentoring
+1178,teamwork
+1178,leadership
+1179,client handling
+1179,problem solving
+1180,mentoring
+1180,problem solving
+1181,mentoring
+1181,adaptability
+1183,adaptability
+1183,teamwork
+1184,client handling
+1184,time management
+1185,time management
+1185,adaptability
+1186,mentoring
+1186,teamwork
+1187,time management
+1187,leadership
+1188,time management
+1188,adaptability
+1189,leadership
+1189,mentoring
+1190,client handling
+1190,communication
+1191,communication
+1191,adaptability
+1192,problem solving
+1192,time management
+1193,problem solving
+1193,leadership
+1194,leadership
+1194,mentoring
+1195,client handling
+1195,teamwork
+1196,problem solving
+1196,client handling
+1197,teamwork
+1197,client handling
+1198,time management
+1198,mentoring
+1199,mentoring
+1199,time management
+1200,adaptability
+1200,leadership

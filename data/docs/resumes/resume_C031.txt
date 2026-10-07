@@ -1,0 +1,15 @@
+EESHA WALLA
+Applying for: Software Engineer
+Email: eesha.walla@mail.com | Singrauli
+
+SUMMARY
+0 years of experience, fresher eager to learn.
+
+SKILLS
+FastAPI, Kubernetes, Angular, React
+
+EDUCATION
+MCA, CUSAT
+
+ACHIEVEMENTS
+- Published a paper at a national conference.

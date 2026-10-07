@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1197_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Upasna Boase",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Portal"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ladli Apte"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "COLLABORATED_WITH",
+   "target": "Champak Chatterjee"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "INTERESTED_IN",
+   "target": "Human Resources"
+  }
+ ]
+}

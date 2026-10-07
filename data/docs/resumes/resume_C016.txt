@@ -1,0 +1,18 @@
+NITARA SAVANT
+Applying for: QA Engineer
+Email: nitara.savant@mail.com | Motihari
+
+SUMMARY
+3 years of experience, most recently at Infosys.
+
+SKILLS
+Selenium, Java, Manual Testing, Performance Testing, Test Automation
+
+EDUCATION
+BBA, VIT Vellore
+
+EXPERIENCE
+- Infosys: 3 years, focused on Selenium and Java.
+
+ACHIEVEMENTS
+- Certified in Test Automation.

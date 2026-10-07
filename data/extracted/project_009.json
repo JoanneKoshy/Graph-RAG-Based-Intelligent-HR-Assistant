@@ -1,0 +1,61 @@
+{
+ "doc_id": "project_009",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Kashvi Lanka",
+   "relation": "LED",
+   "target": "Vega Migration"
+  },
+  {
+   "source": "Siddharth Goswami",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Migration"
+  },
+  {
+   "source": "Nakul Lal",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Migration"
+  },
+  {
+   "source": "Lopa Kanda",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Migration"
+  },
+  {
+   "source": "Urishilla Dugar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Migration"
+  },
+  {
+   "source": "Siddharth Goswami",
+   "relation": "RECOGNIZED_ON",
+   "target": "Vega Migration"
+  },
+  {
+   "source": "Vega Migration",
+   "relation": "PROJECT_USES",
+   "target": "C++"
+  },
+  {
+   "source": "Vega Migration",
+   "relation": "PROJECT_USES",
+   "target": "Kubernetes"
+  },
+  {
+   "source": "Vega Migration",
+   "relation": "PROJECT_USES",
+   "target": "Docker"
+  },
+  {
+   "source": "Vega Migration",
+   "relation": "PROJECT_USES",
+   "target": "FastAPI"
+  },
+  {
+   "source": "Vega Migration",
+   "relation": "HAS_RISK",
+   "target": "integration delays with a third-party API"
+  }
+ ]
+}

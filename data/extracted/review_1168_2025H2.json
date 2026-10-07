@@ -1,0 +1,46 @@
+{
+ "doc_id": "review_1168_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Samar Dubey",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Cobalt Migration"
+  },
+  {
+   "source": "Samar Dubey",
+   "relation": "COLLABORATED_WITH",
+   "target": "Eesha Barman"
+  },
+  {
+   "source": "Samar Dubey",
+   "relation": "COLLABORATED_WITH",
+   "target": "Fitan Raghavan"
+  },
+  {
+   "source": "Samar Dubey",
+   "relation": "USED_SKILL",
+   "target": "Spark"
+  },
+  {
+   "source": "Samar Dubey",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Samar Dubey",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Samar Dubey",
+   "relation": "MENTORS",
+   "target": "Mason Shankar"
+  },
+  {
+   "source": "Samar Dubey",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

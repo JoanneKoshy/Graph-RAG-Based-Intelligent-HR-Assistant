@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1176_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "COLLABORATED_WITH",
+   "target": "Devika Chhabra"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "COLLABORATED_WITH",
+   "target": "Radhika Handa"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

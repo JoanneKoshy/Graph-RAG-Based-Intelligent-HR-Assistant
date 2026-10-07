@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1117_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Widisha Dubey",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Widisha Dubey",
+   "relation": "COLLABORATED_WITH",
+   "target": "Aadhya Ramakrishnan"
+  },
+  {
+   "source": "Widisha Dubey",
+   "relation": "COLLABORATED_WITH",
+   "target": "Udyati Roy"
+  },
+  {
+   "source": "Widisha Dubey",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Widisha Dubey",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Widisha Dubey",
+   "relation": "INTERESTED_IN",
+   "target": "Human Resources"
+  }
+ ]
+}

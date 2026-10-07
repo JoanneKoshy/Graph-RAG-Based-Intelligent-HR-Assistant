@@ -1,0 +1,46 @@
+{
+ "doc_id": "project_015",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Aadhya Ramakrishnan",
+   "relation": "LED",
+   "target": "Nimbus Automation Suite"
+  },
+  {
+   "source": "Nimbus Automation Suite",
+   "relation": "PROJECT_USES",
+   "target": "AWS"
+  },
+  {
+   "source": "Nimbus Automation Suite",
+   "relation": "PROJECT_USES",
+   "target": "Spark"
+  },
+  {
+   "source": "Nimbus Automation Suite",
+   "relation": "PROJECT_USES",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "Nimbus Automation Suite",
+   "relation": "PROJECT_USES",
+   "target": "Tableau"
+  },
+  {
+   "source": "Nakul Bora",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Automation Suite"
+  },
+  {
+   "source": "Nakul Bora",
+   "relation": "RECOGNIZED_ON",
+   "target": "Nimbus Automation Suite"
+  },
+  {
+   "source": "Nimbus Automation Suite",
+   "relation": "HAS_RISK",
+   "target": "data quality issues in the source systems"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_012",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Siddharth Goswami",
+   "relation": "LED",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Zarna Anand",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Noah Bala",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Daksha Borah",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "RECOGNIZED_ON",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Echo Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Go"
+  },
+  {
+   "source": "Echo Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "TypeScript"
+  },
+  {
+   "source": "Echo Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "JavaScript"
+  },
+  {
+   "source": "Echo Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Java"
+  },
+  {
+   "source": "Echo Payment Gateway",
+   "relation": "HAS_RISK",
+   "target": "unstable test environments"
+  }
+ ]
+}

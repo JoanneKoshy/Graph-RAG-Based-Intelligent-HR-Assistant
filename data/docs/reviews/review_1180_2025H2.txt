@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Advik Hans (ID 1180)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Advik's performance this cycle was satisfactory.
+Advik contributed to the Atlas Portal project for GreenGrid Energy, working closely with Ojas De, Libni Sha.
+Their work with Docker on this project was adequate but needs more depth.
+Key strengths observed: mentoring and problem solving.
+Advik has been mentoring Januja Amble, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

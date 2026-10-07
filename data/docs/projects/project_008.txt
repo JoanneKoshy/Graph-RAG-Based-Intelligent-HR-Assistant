@@ -1,0 +1,9 @@
+PROJECT REPORT: Helix CRM Revamp
+Client: Acme Retail | Owning department: Marketing | Status: On Hold
+Start date: 2025-03-16
+
+The Helix CRM Revamp project is led by Vivaan Bhagat. The technology stack includes Content Writing, Tableau, Data Analysis, SEO.
+Team members: Meghana Dugar (Tester); Vedhika Raghavan (Contributor); Theodore Mittal (Developer); Onkar Mall (Contributor); Vivaan Bhagat (Project Lead); Udyati Kakar (Reviewer).
+The project is currently on hold pending budget approval from the client.
+The main risk identified was data quality issues in the source systems.
+Special recognition goes to Udyati Kakar for going beyond their assigned role.

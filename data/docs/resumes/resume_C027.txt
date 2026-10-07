@@ -1,0 +1,18 @@
+QUSHI MISRA
+Applying for: Software Engineer
+Email: qushi.misra@mail.com | Gurgaon
+
+SUMMARY
+1 years of experience, most recently at Infosys.
+
+SKILLS
+CI/CD, Java, TypeScript
+
+EDUCATION
+BBA, VIT Vellore
+
+EXPERIENCE
+- Infosys: 1 years, focused on CI/CD and Java.
+
+ACHIEVEMENTS
+- Published a paper at a national conference.

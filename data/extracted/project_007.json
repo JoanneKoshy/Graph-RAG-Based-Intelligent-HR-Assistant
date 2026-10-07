@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_007",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Gaurav Tripathi",
+   "relation": "LED",
+   "target": "Apex Portal"
+  },
+  {
+   "source": "Ladli Apte",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Apex Portal"
+  },
+  {
+   "source": "Bhavna Keer",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Apex Portal"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Apex Portal"
+  },
+  {
+   "source": "Jagat Mallick",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Apex Portal"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Apex Portal"
+  },
+  {
+   "source": "Bhavna Keer",
+   "relation": "RECOGNIZED_ON",
+   "target": "Apex Portal"
+  },
+  {
+   "source": "Apex Portal",
+   "relation": "PROJECT_USES",
+   "target": "NLP"
+  },
+  {
+   "source": "Apex Portal",
+   "relation": "PROJECT_USES",
+   "target": "Deep Learning"
+  },
+  {
+   "source": "Apex Portal",
+   "relation": "PROJECT_USES",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "Apex Portal",
+   "relation": "PROJECT_USES",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Apex Portal",
+   "relation": "HAS_RISK",
+   "target": "shortage of senior reviewers"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Udyati Roy (ID 1096)
+Designation: Data Analyst, Data Science
+Reviewer: Laksh Konda
+
+Overall, Udyati's performance this cycle was satisfactory.
+Udyati contributed to the Quantum Migration project for Sunrise Bank, working closely with Aadhya Ramakrishnan, Upasna Boase.
+Their work with AWS on this project was adequate but needs more depth.
+Key strengths observed: mentoring and problem solving.
+Areas for improvement: deeper technical ownership and documentation.

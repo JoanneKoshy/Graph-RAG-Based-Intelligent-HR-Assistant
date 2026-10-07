@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C014",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "VINCENT BEDI",
+   "relation": "WORKED_AT",
+   "target": "a Kochi-based startup"
+  },
+  {
+   "source": "VINCENT BEDI",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "VINCENT BEDI",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "VINCENT BEDI",
+   "relation": "USED_SKILL",
+   "target": "Recruitment"
+  },
+  {
+   "source": "VINCENT BEDI",
+   "relation": "USED_SKILL",
+   "target": "Employee Relations"
+  }
+ ]
+}

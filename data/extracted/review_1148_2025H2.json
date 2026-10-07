@@ -1,0 +1,16 @@
+{
+ "doc_id": "review_1148_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Faras Magar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Faras Magar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  }
+ ]
+}

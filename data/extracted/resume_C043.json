@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C043",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "DARIKA BAL",
+   "relation": "WORKED_AT",
+   "target": "Freshworks"
+  },
+  {
+   "source": "DARIKA BAL",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "DARIKA BAL",
+   "relation": "USED_SKILL",
+   "target": "CI/CD"
+  },
+  {
+   "source": "DARIKA BAL",
+   "relation": "USED_SKILL",
+   "target": "Go"
+  },
+  {
+   "source": "DARIKA BAL",
+   "relation": "USED_SKILL",
+   "target": "TypeScript"
+  },
+  {
+   "source": "DARIKA BAL",
+   "relation": "USED_SKILL",
+   "target": "Java"
+  }
+ ]
+}

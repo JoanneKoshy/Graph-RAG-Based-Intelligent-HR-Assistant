@@ -1,0 +1,9 @@
+PROJECT REPORT: Aurora Chatbot
+Client: Internal | Owning department: Marketing | Status: Ongoing
+Start date: 2026-03-03
+
+The Aurora Chatbot project is led by Urmi Agarwal. The technology stack includes Data Analysis, Content Writing, Tableau, Digital Marketing.
+Team members: Vrinda Kapadia (Reviewer); Urmi Agarwal (Project Lead); Garima Kale (Tester); Theodore Mittal (Tester); Dakshesh Yadav (Contributor).
+The project is currently about 73% complete.
+The main risk identified was data quality issues in the source systems.
+Special recognition goes to Garima Kale for going beyond their assigned role.

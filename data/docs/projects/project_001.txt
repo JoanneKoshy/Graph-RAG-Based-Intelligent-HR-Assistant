@@ -1,0 +1,9 @@
+PROJECT REPORT: Orion Payment Gateway
+Client: Internal | Owning department: Quality Assurance | Status: Ongoing
+Start date: 2025-12-07
+
+The Orion Payment Gateway project is led by Chavvi Bhat. The technology stack includes Manual Testing, Python, Java, Test Automation.
+Team members: Reva Pant (Reviewer); Maya Setty (Tester); Jyoti Bir (Analyst); Samar Gupta (Analyst); Chavvi Bhat (Project Lead); Harish Sharma (Reviewer); Radhika Mohanty (Contributor).
+The project is currently about 77% complete.
+The main risk identified was a shortage of senior reviewers.
+Special recognition goes to Harish Sharma for going beyond their assigned role.

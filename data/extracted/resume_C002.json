@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C002",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "EESHA HANDA",
+   "relation": "WORKED_AT",
+   "target": "IBS Software"
+  },
+  {
+   "source": "EESHA HANDA",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "EESHA HANDA",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "EESHA HANDA",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "EESHA HANDA",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "EESHA HANDA",
+   "relation": "STUDIED_AT",
+   "target": "Christ University"
+  }
+ ]
+}

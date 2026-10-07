@@ -1,0 +1,26 @@
+{
+ "doc_id": "review_1133_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Rudra Deep",
+   "relation": "MENTORS",
+   "target": "Januja Sen"
+  },
+  {
+   "source": "Rudra Deep",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Rudra Deep",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Rudra Deep",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "doc_id": "resume_C024",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "ONI SHUKLA",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "ONI SHUKLA",
+   "relation": "USED_SKILL",
+   "target": "NLP"
+  },
+  {
+   "source": "ONI SHUKLA",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "ONI SHUKLA",
+   "relation": "USED_SKILL",
+   "target": "Deep Learning"
+  }
+ ]
+}

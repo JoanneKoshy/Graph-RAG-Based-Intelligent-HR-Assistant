@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C040",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "KASHVI DATE",
+   "relation": "WORKED_AT",
+   "target": "IBS Software"
+  },
+  {
+   "source": "KASHVI DATE",
+   "relation": "STUDIED_AT",
+   "target": "CUSAT"
+  },
+  {
+   "source": "KASHVI DATE",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "KASHVI DATE",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "KASHVI DATE",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "KASHVI DATE",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "KASHVI DATE",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1134_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Mason Shankar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Chatbot"
+  },
+  {
+   "source": "Mason Shankar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Advika Chander"
+  },
+  {
+   "source": "Mason Shankar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ladli Apte"
+  },
+  {
+   "source": "Mason Shankar",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "Mason Shankar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Mason Shankar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Mason Shankar",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

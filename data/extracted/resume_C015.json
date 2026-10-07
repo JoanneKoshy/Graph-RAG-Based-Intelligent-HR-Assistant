@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C015",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "VEDANT DEOL",
+   "relation": "WORKED_AT",
+   "target": "Wipro"
+  },
+  {
+   "source": "VEDANT DEOL",
+   "relation": "STUDIED_AT",
+   "target": "NIT Calicut"
+  },
+  {
+   "source": "VEDANT DEOL",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "VEDANT DEOL",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "VEDANT DEOL",
+   "relation": "USED_SKILL",
+   "target": "SEO"
+  },
+  {
+   "source": "VEDANT DEOL",
+   "relation": "USED_SKILL",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "VEDANT DEOL",
+   "relation": "USED_SKILL",
+   "target": "Content Writing"
+  }
+ ]
+}

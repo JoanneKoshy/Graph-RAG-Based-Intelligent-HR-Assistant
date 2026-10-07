@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C027",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Qushi Misra",
+   "relation": "WORKED_AT",
+   "target": "Infosys"
+  },
+  {
+   "source": "Qushi Misra",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "Qushi Misra",
+   "relation": "USED_SKILL",
+   "target": "CI/CD"
+  },
+  {
+   "source": "Qushi Misra",
+   "relation": "USED_SKILL",
+   "target": "Java"
+  },
+  {
+   "source": "Qushi Misra",
+   "relation": "USED_SKILL",
+   "target": "TypeScript"
+  }
+ ]
+}

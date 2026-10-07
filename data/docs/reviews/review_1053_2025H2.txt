@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Ladli Apte (ID 1053)
+Designation: Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Ladli's performance this cycle was satisfactory.
+Ladli contributed to the Phoenix Portal project for MetroMart, working closely with Upasna Boase, Champak Chatterjee.
+Their work with SQL on this project was adequate but needs more depth.
+Key strengths observed: time management and teamwork.
+Ladli has been mentoring Widisha Dubey, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

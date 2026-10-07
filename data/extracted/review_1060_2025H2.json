@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1060_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Gaurav Tripathi",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Apex Portal"
+  },
+  {
+   "source": "Gaurav Tripathi",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ladli Apte"
+  },
+  {
+   "source": "Gaurav Tripathi",
+   "relation": "COLLABORATED_WITH",
+   "target": "Bhavna Keer"
+  },
+  {
+   "source": "Gaurav Tripathi",
+   "relation": "USED_SKILL",
+   "target": "FastAPI"
+  },
+  {
+   "source": "Gaurav Tripathi",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Gaurav Tripathi",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Gaurav Tripathi",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

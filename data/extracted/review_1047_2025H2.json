@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1047_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Yatin Chand",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Yatin Chand",
+   "relation": "COLLABORATED_WITH",
+   "target": "Reyansh Gupta"
+  },
+  {
+   "source": "Yatin Chand",
+   "relation": "COLLABORATED_WITH",
+   "target": "Reva Pant"
+  },
+  {
+   "source": "Yatin Chand",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Yatin Chand",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Yatin Chand",
+   "relation": "MENTORS",
+   "target": "Maya Setty"
+  },
+  {
+   "source": "Yatin Chand",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

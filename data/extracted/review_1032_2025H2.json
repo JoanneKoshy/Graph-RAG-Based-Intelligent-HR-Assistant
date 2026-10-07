@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1032_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Jason Gade",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Data Lake"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ganga Prakash"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "COLLABORATED_WITH",
+   "target": "Januja Devi"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "USED_SKILL",
+   "target": "Docker"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "MENTORS",
+   "target": "Advika Chander"
+  }
+ ]
+}

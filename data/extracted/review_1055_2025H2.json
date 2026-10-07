@@ -1,0 +1,26 @@
+{
+ "doc_id": "review_1055_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Kiaan Oak",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Kiaan Oak",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Kiaan Oak",
+   "relation": "MENTORS",
+   "target": "Urishilla Pai"
+  },
+  {
+   "source": "Kiaan Oak",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

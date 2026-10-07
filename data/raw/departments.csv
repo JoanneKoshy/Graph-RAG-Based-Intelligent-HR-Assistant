@@ -1,0 +1,9 @@
+dept_id,name,location,head_emp_id
+1,Engineering,Kochi,1001
+2,Data Science,Bengaluru,1002
+3,Quality Assurance,Kochi,1003
+4,Human Resources,Kochi,1004
+5,Finance,Mumbai,1005
+6,Sales,Mumbai,1006
+7,Marketing,Bengaluru,1007
+8,Customer Support,Chennai,1008

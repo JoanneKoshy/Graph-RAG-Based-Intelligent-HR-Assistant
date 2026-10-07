@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Hardik Saini (ID 1009)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Hardik's performance this cycle was below expectations.
+Hardik contributed to the Phoenix Dashboard project for Acme Retail, working closely with Edhitha Dave, Daksha Borah.
+Their work with Node.js on this project was adequate but needs more depth.
+Key strengths observed: leadership and time management.
+Hardik has been mentoring Onveer Jani, who has shown clear improvement as a result.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

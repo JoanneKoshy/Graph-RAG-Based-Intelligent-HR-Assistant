@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Maya Setty (ID 1027)
+Designation: QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Maya's performance this cycle was satisfactory.
+Maya contributed to the Zenith Data Lake project for EduSpark, working closely with Reyansh Gupta, Reva Pant.
+Their work with Performance Testing on this project was adequate but needs more depth.
+Key strengths observed: leadership and adaptability.
+Areas for improvement: deeper technical ownership and documentation.

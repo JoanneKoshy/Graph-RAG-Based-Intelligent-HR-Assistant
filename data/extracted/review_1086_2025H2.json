@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1086_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Jyoti Bir",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "COLLABORATED_WITH",
+   "target": "Balendra Bhargava"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "COLLABORATED_WITH",
+   "target": "Advaith Karpe"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "USED_SKILL",
+   "target": "Manual Testing"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

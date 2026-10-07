@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C017",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "UDANT DUTT",
+   "relation": "WORKED_AT",
+   "target": "Wipro"
+  },
+  {
+   "source": "UDANT DUTT",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "UDANT DUTT",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "UDANT DUTT",
+   "relation": "USED_SKILL",
+   "target": "Spring Boot"
+  },
+  {
+   "source": "UDANT DUTT",
+   "relation": "USED_SKILL",
+   "target": "C++"
+  },
+  {
+   "source": "UDANT DUTT",
+   "relation": "USED_SKILL",
+   "target": "Azure"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Sudiksha Pathak (ID 1045)
+Designation: Accountant, Finance
+Reviewer: Siddharth Balay
+
+Overall, Sudiksha's performance this cycle was satisfactory.
+Key strengths observed: problem solving and communication.
+Areas for improvement: deeper technical ownership and documentation.
+Note: Sudiksha has expressed interest in moving to the Data Science team.

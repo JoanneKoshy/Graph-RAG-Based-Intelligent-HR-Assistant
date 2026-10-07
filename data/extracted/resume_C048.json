@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C048",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "PANINI ARORA",
+   "relation": "WORKED_AT",
+   "target": "IBS Software"
+  },
+  {
+   "source": "PANINI ARORA",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "PANINI ARORA",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "PANINI ARORA",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "PANINI ARORA",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "PANINI ARORA",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1026_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Daksha Rai",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Daksha Rai",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Daksha Rai",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

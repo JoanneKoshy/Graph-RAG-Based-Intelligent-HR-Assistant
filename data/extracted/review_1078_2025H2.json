@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1078_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Sudiksha Prakash",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Sudiksha Prakash",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Sudiksha Prakash",
+   "relation": "INTERESTED_IN",
+   "target": "Customer Support"
+  }
+ ]
+}

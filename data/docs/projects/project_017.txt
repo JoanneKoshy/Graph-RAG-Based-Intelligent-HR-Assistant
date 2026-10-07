@@ -1,0 +1,9 @@
+PROJECT REPORT: Phoenix Dashboard
+Client: Acme Retail | Owning department: Engineering | Status: Ongoing
+Start date: 2026-04-05
+
+The Phoenix Dashboard project is led by Hardik Saini. The technology stack includes Python, SQL, Node.js, C++.
+Team members: Edhitha Dave (Analyst); Daksha Borah (Tester); Onveer Jani (Contributor); Januja Amble (Analyst); Hardik Saini (Project Lead); Nakul Bora (Tester).
+The project is currently about 53% complete.
+The main risk identified was unstable test environments.
+Special recognition goes to Nakul Bora for going beyond their assigned role.

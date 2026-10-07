@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C013",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "SIMON KANDA",
+   "relation": "WORKED_AT",
+   "target": "a Kochi-based startup"
+  },
+  {
+   "source": "SIMON KANDA",
+   "relation": "STUDIED_AT",
+   "target": "Christ University"
+  },
+  {
+   "source": "SIMON KANDA",
+   "relation": "USED_SKILL",
+   "target": "Azure"
+  },
+  {
+   "source": "SIMON KANDA",
+   "relation": "USED_SKILL",
+   "target": "C++"
+  },
+  {
+   "source": "SIMON KANDA",
+   "relation": "USED_SKILL",
+   "target": "Java"
+  },
+  {
+   "source": "SIMON KANDA",
+   "relation": "USED_SKILL",
+   "target": "Docker"
+  }
+ ]
+}

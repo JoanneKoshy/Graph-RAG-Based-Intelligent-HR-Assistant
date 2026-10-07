@@ -1,0 +1,9 @@
+PROJECT REPORT: Echo Payment Gateway
+Client: MetroMart | Owning department: Engineering | Status: Ongoing
+Start date: 2024-11-27
+
+The Echo Payment Gateway project is led by Siddharth Goswami. The technology stack includes Go, TypeScript, JavaScript, Java.
+Team members: Rajata Gaba (Reviewer); Zarna Anand (Developer); Noah Bala (Analyst); Siddharth Goswami (Project Lead); Daksha Borah (Contributor); Jyoti Bir (Developer).
+The project is currently about 46% complete.
+The main risk identified was unstable test environments.
+Special recognition goes to Jyoti Bir for going beyond their assigned role.

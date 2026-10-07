@@ -1,0 +1,61 @@
+{
+ "doc_id": "project_011",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Urmi Agarwal",
+   "relation": "LED",
+   "target": "Aurora Chatbot"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Chatbot"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Chatbot"
+  },
+  {
+   "source": "Theodore Mittal",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Chatbot"
+  },
+  {
+   "source": "Dakshesh Yadav",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Chatbot"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "RECOGNIZED_ON",
+   "target": "Aurora Chatbot"
+  },
+  {
+   "source": "Aurora Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Aurora Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "Content Writing"
+  },
+  {
+   "source": "Aurora Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "Tableau"
+  },
+  {
+   "source": "Aurora Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "Aurora Chatbot",
+   "relation": "HAS_RISK",
+   "target": "data quality issues in the source systems"
+  }
+ ]
+}

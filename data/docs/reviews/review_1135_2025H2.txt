@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Nakul Bora (ID 1135)
+Designation: QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Nakul's performance this cycle was satisfactory.
+Nakul contributed to the Phoenix Dashboard project for Acme Retail, working closely with Edhitha Dave, Daksha Borah.
+Their work with SQL on this project was adequate but needs more depth.
+Key strengths observed: mentoring and client handling.
+Areas for improvement: deeper technical ownership and documentation.

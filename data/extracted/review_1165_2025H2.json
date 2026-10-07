@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1165_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Anmol Parmar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Anmol Parmar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Anmol Parmar",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

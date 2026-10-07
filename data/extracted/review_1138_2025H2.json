@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1138_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Hredhaan Toor",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Hredhaan Toor",
+   "relation": "COLLABORATED_WITH",
+   "target": "Yashodhara D\u2019Alia"
+  },
+  {
+   "source": "Hredhaan Toor",
+   "relation": "COLLABORATED_WITH",
+   "target": "Upasna Pandya"
+  },
+  {
+   "source": "Hredhaan Toor",
+   "relation": "USED_SKILL",
+   "target": "AWS"
+  },
+  {
+   "source": "Hredhaan Toor",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Hredhaan Toor",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Hredhaan Toor",
+   "relation": "MENTORS",
+   "target": "Bhavna Keer"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Upkaar Dara (ID 1080)
+Designation: QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Upkaar's performance this cycle was below expectations.
+Upkaar contributed to the Phoenix CRM Revamp project for GreenGrid Energy, working closely with Yashodhara D’Alia, Upasna Pandya.
+Their work with Python on this project was adequate but needs more depth.
+Key strengths observed: leadership and problem solving.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

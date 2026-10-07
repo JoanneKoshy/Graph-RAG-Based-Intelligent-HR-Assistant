@@ -1,0 +1,16 @@
+{
+ "doc_id": "review_1012_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Fariq Sami",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Fariq Sami",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  }
+ ]
+}

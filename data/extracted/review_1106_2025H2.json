@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1106_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Vaishnavi Chaudhari",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Vaishnavi Chaudhari",
+   "relation": "COLLABORATED_WITH",
+   "target": "Daksha Borah"
+  },
+  {
+   "source": "Vaishnavi Chaudhari",
+   "relation": "COLLABORATED_WITH",
+   "target": "Henry Loke"
+  },
+  {
+   "source": "Vaishnavi Chaudhari",
+   "relation": "USED_SKILL",
+   "target": "Django"
+  },
+  {
+   "source": "Vaishnavi Chaudhari",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Vaishnavi Chaudhari",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  }
+ ]
+}

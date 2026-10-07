@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1146_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Ekalinga Lalla",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Ekalinga Lalla",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Ekalinga Lalla",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

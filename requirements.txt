@@ -1,0 +1,6 @@
+faker
+python-dotenv
+psycopg[binary]
+neo4j
+groq
+fastembed

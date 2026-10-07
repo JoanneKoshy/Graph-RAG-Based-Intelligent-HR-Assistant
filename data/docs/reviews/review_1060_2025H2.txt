@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Gaurav Tripathi (ID 1060)
+Designation: Tech Lead, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Gaurav's performance this cycle was below expectations.
+Gaurav contributed to the Apex Portal project for GreenGrid Energy, working closely with Ladli Apte, Bhavna Keer.
+Their work with FastAPI on this project was adequate but needs more depth.
+Key strengths observed: adaptability and problem solving.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

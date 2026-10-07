@@ -1,0 +1,21 @@
+# ---- secrets: NEVER commit
+.env
+.env.*
+!.env.example
+
+# ---- Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- downloaded embedding model (~70 MB, re-downloads automatically)
+.cache/
+
+# ---- editors / OS
+.vscode/
+.idea/
+desktop.ini
+Thumbs.db
+.DS_Store

@@ -1,0 +1,19 @@
+training_id,name,skill_id,provider,duration_hours
+1,Azure Fundamentals,22,NPTEL,16
+2,Advanced Financial Analysis,34,Coursera,24
+3,Manual Testing Fundamentals,27,Udemy,16
+4,Advanced Power BI,18,AWS Training,24
+5,Data Analysis Fundamentals,17,Udemy,40
+6,Advanced Test Automation,28,Internal L&D,16
+7,Spring Boot Fundamentals,13,NPTEL,40
+8,Advanced Angular,9,Internal L&D,40
+9,Tableau Fundamentals,19,AWS Training,24
+10,Advanced Negotiation,35,Udemy,24
+11,Ticketing Systems Fundamentals,41,AWS Training,8
+12,Advanced Payroll Processing,31,Internal L&D,8
+13,FastAPI Fundamentals,12,NPTEL,40
+14,Advanced Docker,23,Coursera,8
+15,Content Writing Fundamentals,38,Udemy,24
+16,Advanced Digital Marketing,39,NPTEL,40
+17,Django Fundamentals,11,AWS Training,24
+18,Advanced SQL,7,AWS Training,40

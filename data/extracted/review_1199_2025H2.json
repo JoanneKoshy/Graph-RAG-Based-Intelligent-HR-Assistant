@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1199_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Diya Mital",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Automation Suite"
+  },
+  {
+   "source": "Diya Mital",
+   "relation": "COLLABORATED_WITH",
+   "target": "Eesha Barman"
+  },
+  {
+   "source": "Diya Mital",
+   "relation": "COLLABORATED_WITH",
+   "target": "Devika Lal"
+  },
+  {
+   "source": "Diya Mital",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Diya Mital",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Diya Mital",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

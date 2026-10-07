@@ -1,0 +1,18 @@
+UCCHAL KRISHNAN
+Applying for: Software Engineer
+Email: ucchal.krishnan@mail.com | Nandyal
+
+SUMMARY
+4 years of experience, most recently at IBS Software.
+
+SKILLS
+Python, JavaScript, TypeScript, CI/CD
+
+EDUCATION
+MBA (HR), VIT Vellore
+
+EXPERIENCE
+- IBS Software: 4 years, focused on Python and JavaScript.
+
+ACHIEVEMENTS
+- Won a state-level hackathon.

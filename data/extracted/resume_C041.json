@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C041",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "JANANI SHROFF",
+   "relation": "WORKED_AT",
+   "target": "TCS"
+  },
+  {
+   "source": "JANANI SHROFF",
+   "relation": "STUDIED_AT",
+   "target": "CUSAT"
+  },
+  {
+   "source": "JANANI SHROFF",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "JANANI SHROFF",
+   "relation": "USED_SKILL",
+   "target": "Recruitment"
+  },
+  {
+   "source": "JANANI SHROFF",
+   "relation": "USED_SKILL",
+   "target": "Employee Relations"
+  },
+  {
+   "source": "JANANI SHROFF",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  }
+ ]
+}

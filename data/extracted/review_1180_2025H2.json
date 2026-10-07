@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1180_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Advik Hans",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Portal"
+  },
+  {
+   "source": "Advik Hans",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ojas De"
+  },
+  {
+   "source": "Advik Hans",
+   "relation": "COLLABORATED_WITH",
+   "target": "Libni Sha"
+  },
+  {
+   "source": "Advik Hans",
+   "relation": "USED_SKILL",
+   "target": "Docker"
+  },
+  {
+   "source": "Advik Hans",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Advik Hans",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Advik Hans",
+   "relation": "MENTORS",
+   "target": "Januja Amble"
+  }
+ ]
+}

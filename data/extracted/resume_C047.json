@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C047",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "TANISH PRABHAKAR",
+   "relation": "WORKED_AT",
+   "target": "Infosys"
+  },
+  {
+   "source": "TANISH PRABHAKAR",
+   "relation": "STUDIED_AT",
+   "target": "Christ University"
+  },
+  {
+   "source": "TANISH PRABHAKAR",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "TANISH PRABHAKAR",
+   "relation": "USED_SKILL",
+   "target": "Performance Testing"
+  },
+  {
+   "source": "TANISH PRABHAKAR",
+   "relation": "USED_SKILL",
+   "target": "Test Automation"
+  }
+ ]
+}

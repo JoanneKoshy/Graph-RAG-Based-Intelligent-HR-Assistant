@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1042_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Eshana Lanka",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Eshana Lanka",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Eshana Lanka",
+   "relation": "MENTORS",
+   "target": "Hemal Lanka"
+  }
+ ]
+}

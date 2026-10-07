@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Kritika Loke (ID 1173)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Kritika's performance this cycle was satisfactory.
+Kritika contributed to the Echo Analytics Platform project for MetroMart, working closely with Januja Amble, Jyoti Balay.
+Their work with FastAPI on this project was adequate but needs more depth.
+Key strengths observed: leadership and communication.
+Areas for improvement: deeper technical ownership and documentation.

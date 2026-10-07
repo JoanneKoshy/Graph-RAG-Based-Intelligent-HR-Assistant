@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C034",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Ranveer Narang",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "Ranveer Narang",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "Ranveer Narang",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "Ranveer Narang",
+   "relation": "STUDIED_AT",
+   "target": "Anna University"
+  },
+  {
+   "source": "Ranveer Narang",
+   "relation": "WORKED_AT",
+   "target": "Freshworks"
+  }
+ ]
+}

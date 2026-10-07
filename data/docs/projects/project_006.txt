@@ -1,0 +1,9 @@
+PROJECT REPORT: Titan Analytics Platform
+Client: MetroMart | Owning department: Marketing | Status: Ongoing
+Start date: 2025-05-11
+
+The Titan Analytics Platform project is led by Advaith Karpe. The technology stack includes Tableau, SEO, Data Analysis, Digital Marketing.
+Team members: Garima Kale (Tester); Harish Muni (Developer); Vrinda Kapadia (Analyst); Advaith Karpe (Project Lead); Libni Sha (Contributor).
+The project is currently about 33% complete.
+The main risk identified was a shortage of senior reviewers.
+Special recognition goes to Harish Muni for going beyond their assigned role.

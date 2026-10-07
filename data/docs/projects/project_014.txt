@@ -1,0 +1,9 @@
+PROJECT REPORT: Atlas Data Lake
+Client: Internal | Owning department: Data Science | Status: Ongoing
+Start date: 2024-09-07
+
+The Atlas Data Lake project is led by Januja Devi. The technology stack includes NLP, AWS, Spark, Deep Learning.
+Team members: Ganga Prakash (Reviewer); Januja Devi (Project Lead); Widisha Dubey (Developer); Jason Gade (Developer); Diya Radhakrishnan (Contributor).
+The project is currently about 80% complete.
+The main risk identified was data quality issues in the source systems.
+Special recognition goes to Jason Gade for going beyond their assigned role.

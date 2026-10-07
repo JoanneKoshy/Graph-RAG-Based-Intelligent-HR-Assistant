@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Urishilla Dugar (ID 1057)
+Designation: Senior Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Urishilla's performance this cycle was satisfactory.
+Urishilla contributed to the Quantum Migration project for Sunrise Bank, working closely with Aadhya Ramakrishnan, Udyati Roy.
+Their work with Spark on this project was adequate but needs more depth.
+Key strengths observed: teamwork and client handling.
+Urishilla has been mentoring Urishilla Pai, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

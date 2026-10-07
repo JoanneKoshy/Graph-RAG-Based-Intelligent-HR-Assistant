@@ -1,0 +1,9 @@
+PROJECT REPORT: Nimbus Chatbot
+Client: GreenGrid Energy | Owning department: Sales | Status: Ongoing
+Start date: 2026-02-09
+
+The Nimbus Chatbot project is led by Krishna Baral. The technology stack includes Negotiation, Data Analysis, CRM, Customer Service.
+Team members: Chatura Kothari (Tester); Krisha Pingle (Developer); Ganga Dutta (Reviewer); Warda Kala (Contributor); Krishna Baral (Project Lead).
+The project is currently about 57% complete.
+The main risk identified was unstable test environments.
+Special recognition goes to Warda Kala for going beyond their assigned role.

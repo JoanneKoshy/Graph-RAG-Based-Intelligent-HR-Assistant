@@ -1,0 +1,71 @@
+{
+ "doc_id": "project_026",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Kashvi Lanka",
+   "relation": "LED",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Nova Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "SEO"
+  },
+  {
+   "source": "Nova Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Content Writing"
+  },
+  {
+   "source": "Nova Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "Nova Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Tableau"
+  },
+  {
+   "source": "Devika Chhabra",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Vrinda Kapadia",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Radhika Handa",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Sudiksha Narasimhan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Meghana Dugar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Meghana Dugar",
+   "relation": "RECOGNIZED_ON",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Nova Mobile App",
+   "relation": "HAS_RISK",
+   "target": "unstable test environments"
+  }
+ ]
+}

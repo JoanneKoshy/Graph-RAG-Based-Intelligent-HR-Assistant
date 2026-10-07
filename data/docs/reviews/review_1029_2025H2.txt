@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Reva Pant (ID 1029)
+Designation: Senior QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Reva's performance this cycle was outstanding.
+Reva contributed to the Nimbus Automation Suite project for EduSpark, working closely with Ladli Apte, Fitan Raghavan.
+Their work with Python on this project was highly appreciated.
+Key strengths observed: teamwork and problem solving.
+Recommendation: consider for additional responsibilities and promotion in the next cycle.

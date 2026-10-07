@@ -1,0 +1,16 @@
+{
+ "doc_id": "review_1121_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Barkha Bedi",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Barkha Bedi",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  }
+ ]
+}

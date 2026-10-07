@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C028",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Imaran Sura",
+   "relation": "WORKED_AT",
+   "target": "IBS Software"
+  },
+  {
+   "source": "Imaran Sura",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "Imaran Sura",
+   "relation": "USED_SKILL",
+   "target": "Content Writing"
+  },
+  {
+   "source": "Imaran Sura",
+   "relation": "USED_SKILL",
+   "target": "SEO"
+  },
+  {
+   "source": "Imaran Sura",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "Imaran Sura",
+   "relation": "USED_SKILL",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "Imaran Sura",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  }
+ ]
+}

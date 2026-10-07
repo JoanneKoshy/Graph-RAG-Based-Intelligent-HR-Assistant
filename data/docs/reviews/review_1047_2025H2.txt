@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Yatin Chand (ID 1047)
+Designation: Senior QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Yatin's performance this cycle was below expectations.
+Yatin contributed to the Zenith Data Lake project for EduSpark, working closely with Reyansh Gupta, Reva Pant.
+Their work with CI/CD on this project was adequate but needs more depth.
+Key strengths observed: communication and adaptability.
+Yatin has been mentoring Maya Setty, who has shown clear improvement as a result.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

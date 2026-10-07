@@ -1,0 +1,46 @@
+{
+ "doc_id": "review_1022_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Radhika Handa",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nova Mobile App"
+  },
+  {
+   "source": "Radhika Handa",
+   "relation": "COLLABORATED_WITH",
+   "target": "Devika Chhabra"
+  },
+  {
+   "source": "Radhika Handa",
+   "relation": "COLLABORATED_WITH",
+   "target": "Vrinda Kapadia"
+  },
+  {
+   "source": "Radhika Handa",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "Radhika Handa",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Radhika Handa",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Radhika Handa",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  },
+  {
+   "source": "Radhika Handa",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  }
+ ]
+}

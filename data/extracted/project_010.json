@@ -1,0 +1,71 @@
+{
+ "doc_id": "project_010",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Nakul Rattan",
+   "relation": "LED",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Devika Chhabra",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Theodore Mittal",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Udyati Bhatt",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "William Thakkar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Farhan Bhandari",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "RECOGNIZED_ON",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Atlas Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Atlas Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "Atlas Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Content Writing"
+  },
+  {
+   "source": "Atlas Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "SEO"
+  },
+  {
+   "source": "Atlas Mobile App",
+   "relation": "HAS_RISK",
+   "target": "unstable test environments"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+WAZIR BORA
+Applying for: Software Engineer
+Email: wazir.bora@mail.com | Vijayanagaram
+
+SUMMARY
+2 years of experience, most recently at UST Global.
+
+SKILLS
+Go, FastAPI, Python, Java, C++
+
+EDUCATION
+B.Tech in Electronics, Anna University
+
+EXPERIENCE
+- UST Global: 2 years, focused on Go and FastAPI.
+
+ACHIEVEMENTS
+- Published a paper at a national conference.

@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1057_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Urishilla Dugar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Urishilla Dugar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Aadhya Ramakrishnan"
+  },
+  {
+   "source": "Urishilla Dugar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Udyati Roy"
+  },
+  {
+   "source": "Urishilla Dugar",
+   "relation": "USED_SKILL",
+   "target": "Spark"
+  },
+  {
+   "source": "Urishilla Dugar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Urishilla Dugar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Urishilla Dugar",
+   "relation": "MENTORS",
+   "target": "Urishilla Pai"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C037",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "ADYA ZACHARIA",
+   "relation": "STUDIED_AT",
+   "target": "Christ University"
+  },
+  {
+   "source": "ADYA ZACHARIA",
+   "relation": "USED_SKILL",
+   "target": "Angular"
+  },
+  {
+   "source": "ADYA ZACHARIA",
+   "relation": "USED_SKILL",
+   "target": "React"
+  },
+  {
+   "source": "ADYA ZACHARIA",
+   "relation": "USED_SKILL",
+   "target": "JavaScript"
+  },
+  {
+   "source": "ADYA ZACHARIA",
+   "relation": "USED_SKILL",
+   "target": "AWS"
+  },
+  {
+   "source": "ADYA ZACHARIA",
+   "relation": "USED_SKILL",
+   "target": "FastAPI"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "doc_id": "project_017",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Hardik Saini",
+   "relation": "LED",
+   "target": "Phoenix Dashboard"
+  },
+  {
+   "source": "Phoenix Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "Python"
+  },
+  {
+   "source": "Phoenix Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "SQL"
+  },
+  {
+   "source": "Phoenix Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "Node.js"
+  },
+  {
+   "source": "Phoenix Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "C++"
+  },
+  {
+   "source": "Edhitha Dave",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Dashboard"
+  },
+  {
+   "source": "Daksha Borah",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Dashboard"
+  },
+  {
+   "source": "Onveer Jani",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Dashboard"
+  },
+  {
+   "source": "Januja Amble",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Dashboard"
+  },
+  {
+   "source": "Hardik Saini",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Dashboard"
+  },
+  {
+   "source": "Nakul Bora",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix Dashboard"
+  },
+  {
+   "source": "Phoenix Dashboard",
+   "relation": "HAS_RISK",
+   "target": "unstable test environments"
+  },
+  {
+   "source": "Nakul Bora",
+   "relation": "RECOGNIZED_ON",
+   "target": "Phoenix Dashboard"
+  }
+ ]
+}

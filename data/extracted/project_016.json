@@ -1,0 +1,81 @@
+{
+ "doc_id": "project_016",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Harish Sharma",
+   "relation": "LED",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Quantum Migration",
+   "relation": "PROJECT_USES",
+   "target": "Docker"
+  },
+  {
+   "source": "Quantum Migration",
+   "relation": "PROJECT_USES",
+   "target": "Spark"
+  },
+  {
+   "source": "Quantum Migration",
+   "relation": "PROJECT_USES",
+   "target": "SQL"
+  },
+  {
+   "source": "Quantum Migration",
+   "relation": "PROJECT_USES",
+   "target": "Tableau"
+  },
+  {
+   "source": "Aadhya Ramakrishnan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Udyati Roy",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Widisha Dubey",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Urishilla Dugar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Fitan Raghavan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Liam Boase",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Harish Sharma",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Quantum Migration"
+  },
+  {
+   "source": "Quantum Migration",
+   "relation": "HAS_RISK",
+   "target": "shortage of senior reviewers"
+  },
+  {
+   "source": "Harish Sharma",
+   "relation": "RECOGNIZED_ON",
+   "target": "Quantum Migration"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1040_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Jagvi Tata",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Portal"
+  },
+  {
+   "source": "Jagvi Tata",
+   "relation": "COLLABORATED_WITH",
+   "target": "Advik Hans"
+  },
+  {
+   "source": "Jagvi Tata",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ojas De"
+  },
+  {
+   "source": "Jagvi Tata",
+   "relation": "USED_SKILL",
+   "target": "TypeScript"
+  },
+  {
+   "source": "Jagvi Tata",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Jagvi Tata",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Jagvi Tata",
+   "relation": "MENTORS",
+   "target": "Jyoti Balay"
+  }
+ ]
+}

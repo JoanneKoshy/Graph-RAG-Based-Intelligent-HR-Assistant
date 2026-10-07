@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C006",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "TIMOTHY KALA",
+   "relation": "WORKED_AT",
+   "target": "IBS Software"
+  },
+  {
+   "source": "TIMOTHY KALA",
+   "relation": "USED_SKILL",
+   "target": "Docker"
+  },
+  {
+   "source": "TIMOTHY KALA",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "TIMOTHY KALA",
+   "relation": "USED_SKILL",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "TIMOTHY KALA",
+   "relation": "STUDIED_AT",
+   "target": "NIT Calicut"
+  }
+ ]
+}

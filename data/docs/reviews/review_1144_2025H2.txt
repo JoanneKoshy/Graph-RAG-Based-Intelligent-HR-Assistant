@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Zarna Anand (ID 1144)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Zarna's performance this cycle was satisfactory.
+Zarna contributed to the Echo Analytics Platform project for MetroMart, working closely with Januja Amble, Jyoti Balay.
+Their work with SQL on this project was adequate but needs more depth.
+Key strengths observed: leadership and teamwork.
+Areas for improvement: deeper technical ownership and documentation.

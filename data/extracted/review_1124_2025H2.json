@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1124_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Yashoda Buch",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Portal"
+  },
+  {
+   "source": "Yashoda Buch",
+   "relation": "COLLABORATED_WITH",
+   "target": "Advik Hans"
+  },
+  {
+   "source": "Yashoda Buch",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ojas De"
+  },
+  {
+   "source": "Yashoda Buch",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Yashoda Buch",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Yashoda Buch",
+   "relation": "USED_SKILL",
+   "target": "Kubernetes"
+  },
+  {
+   "source": "Atlas Portal",
+   "relation": "PROJECT_USES",
+   "target": "Kubernetes"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1118_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Girish Minhas",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  },
+  {
+   "source": "Girish Minhas",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "adaptability"
+  },
+  {
+   "source": "Girish Minhas",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Harish Sharma (ID 1177)
+Designation: QA Lead, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Harish's performance this cycle was satisfactory.
+Harish contributed to the Quantum Migration project for Sunrise Bank, working closely with Aadhya Ramakrishnan, Udyati Roy.
+Their work with Test Automation on this project was adequate but needs more depth.
+Key strengths observed: teamwork and mentoring.
+Areas for improvement: deeper technical ownership and documentation.

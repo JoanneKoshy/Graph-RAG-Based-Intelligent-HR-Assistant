@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1123_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Farhan Bhandari",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "Farhan Bhandari",
+   "relation": "COLLABORATED_WITH",
+   "target": "Garima Kale"
+  },
+  {
+   "source": "Farhan Bhandari",
+   "relation": "COLLABORATED_WITH",
+   "target": "Devika Chhabra"
+  },
+  {
+   "source": "Farhan Bhandari",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Farhan Bhandari",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  },
+  {
+   "source": "Farhan Bhandari",
+   "relation": "USED_SKILL",
+   "target": "Kubernetes"
+  },
+  {
+   "source": "Atlas Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Kubernetes"
+  }
+ ]
+}

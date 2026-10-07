@@ -1,0 +1,76 @@
+{
+ "doc_id": "project_005",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Januja Devi",
+   "relation": "LED",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Januja Devi",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Jason Gade",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Udyati Roy",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Ojasvi Suresh",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Ganga Prakash",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Upasna Pandya",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Januja Devi",
+   "relation": "RECOGNIZED_ON",
+   "target": "Zenith Migration"
+  },
+  {
+   "source": "Zenith Migration",
+   "relation": "PROJECT_USES",
+   "target": "NLP"
+  },
+  {
+   "source": "Zenith Migration",
+   "relation": "PROJECT_USES",
+   "target": "Spark"
+  },
+  {
+   "source": "Zenith Migration",
+   "relation": "PROJECT_USES",
+   "target": "Tableau"
+  },
+  {
+   "source": "Zenith Migration",
+   "relation": "PROJECT_USES",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "Zenith Migration",
+   "relation": "HAS_RISK",
+   "target": "integration delays with a third-party API"
+  }
+ ]
+}

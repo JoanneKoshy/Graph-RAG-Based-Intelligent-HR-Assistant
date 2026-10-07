@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1043_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Ekaraj Koshy",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Ekaraj Koshy",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Ekaraj Koshy",
+   "relation": "INTERESTED_IN",
+   "target": "Engineering"
+  }
+ ]
+}

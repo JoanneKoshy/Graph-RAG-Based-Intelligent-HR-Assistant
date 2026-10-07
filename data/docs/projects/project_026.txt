@@ -1,0 +1,9 @@
+PROJECT REPORT: Nova Mobile App
+Client: MetroMart | Owning department: Marketing | Status: Ongoing
+Start date: 2026-02-12
+
+The Nova Mobile App project is led by Kashvi Lanka. The technology stack includes SEO, Content Writing, Digital Marketing, Tableau.
+Team members: Devika Chhabra (Analyst); Vrinda Kapadia (Analyst); Radhika Handa (Reviewer); Sudiksha Narasimhan (Reviewer); Meghana Dugar (Contributor); Udyati Kakar (Developer); Kashvi Lanka (Project Lead).
+The project is currently about 47% complete.
+The main risk identified was unstable test environments.
+Special recognition goes to Meghana Dugar for going beyond their assigned role.

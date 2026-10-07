@@ -1,0 +1,9 @@
+PROJECT REPORT: Zenith Chatbot
+Client: EduSpark | Owning department: Data Science | Status: Completed
+Start date: 2026-05-12
+
+The Zenith Chatbot project is led by Kashvi Lanka. The technology stack includes Machine Learning, AWS, SQL, NLP.
+Team members: Advika Chander (Tester); Mason Shankar (Contributor); Ladli Apte (Contributor); Balendra Bhargava (Analyst); Kashvi Lanka (Project Lead).
+The project was delivered on 2026-09-01 and the client feedback was positive.
+The main risk identified was a shortage of senior reviewers.
+Special recognition goes to Kashvi Lanka for going beyond their assigned role.

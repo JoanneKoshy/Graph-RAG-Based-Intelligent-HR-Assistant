@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1071_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Brijesh Sunder",
+   "relation": "MENTORS",
+   "target": "Jagdish Bhardwaj"
+  },
+  {
+   "source": "Brijesh Sunder",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Brijesh Sunder",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "communication"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "doc_id": "project_003",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Kritika Loke",
+   "relation": "LED",
+   "target": "Titan Migration"
+  },
+  {
+   "source": "Titan Migration",
+   "relation": "PROJECT_USES",
+   "target": "CI/CD"
+  },
+  {
+   "source": "Titan Migration",
+   "relation": "PROJECT_USES",
+   "target": "Kubernetes"
+  },
+  {
+   "source": "Titan Migration",
+   "relation": "PROJECT_USES",
+   "target": "React"
+  },
+  {
+   "source": "Titan Migration",
+   "relation": "PROJECT_USES",
+   "target": "TypeScript"
+  },
+  {
+   "source": "Libni Sha",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Migration"
+  },
+  {
+   "source": "Januja Amble",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Migration"
+  },
+  {
+   "source": "Kritika Loke",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Migration"
+  },
+  {
+   "source": "Atharv Chanda",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Migration"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Migration"
+  },
+  {
+   "source": "Mason Shankar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Titan Migration"
+  },
+  {
+   "source": "Januja Amble",
+   "relation": "RECOGNIZED_ON",
+   "target": "Titan Migration"
+  },
+  {
+   "source": "Titan Migration",
+   "relation": "HAS_RISK",
+   "target": "shortage of senior reviewers"
+  }
+ ]
+}

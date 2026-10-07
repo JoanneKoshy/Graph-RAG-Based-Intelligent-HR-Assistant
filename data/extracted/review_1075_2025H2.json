@@ -1,0 +1,31 @@
+{
+ "doc_id": "review_1075_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Kevin Wable",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Kevin Wable",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Kevin Wable",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  },
+  {
+   "source": "Kevin Wable",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  },
+  {
+   "source": "Kevin Wable",
+   "relation": "INTERESTED_IN",
+   "target": "Data Science"
+  }
+ ]
+}

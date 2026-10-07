@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1034_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Lopa Kanda",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Migration"
+  },
+  {
+   "source": "Lopa Kanda",
+   "relation": "COLLABORATED_WITH",
+   "target": "Siddharth Goswami"
+  },
+  {
+   "source": "Lopa Kanda",
+   "relation": "COLLABORATED_WITH",
+   "target": "Kashvi Lanka"
+  },
+  {
+   "source": "Lopa Kanda",
+   "relation": "USED_SKILL",
+   "target": "TypeScript"
+  },
+  {
+   "source": "Lopa Kanda",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Lopa Kanda",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  }
+ ]
+}

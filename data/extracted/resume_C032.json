@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C032",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Agastya Chacko",
+   "relation": "USED_SKILL",
+   "target": "SEO"
+  },
+  {
+   "source": "Agastya Chacko",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Agastya Chacko",
+   "relation": "USED_SKILL",
+   "target": "Tableau"
+  },
+  {
+   "source": "Agastya Chacko",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "Agastya Chacko",
+   "relation": "WORKED_AT",
+   "target": "Freshworks"
+  }
+ ]
+}

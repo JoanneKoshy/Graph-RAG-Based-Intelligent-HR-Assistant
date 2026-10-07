@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C022",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "FORUM KASHYAP",
+   "relation": "WORKED_AT",
+   "target": "a Kochi-based startup"
+  },
+  {
+   "source": "FORUM KASHYAP",
+   "relation": "STUDIED_AT",
+   "target": "Christ University"
+  },
+  {
+   "source": "FORUM KASHYAP",
+   "relation": "USED_SKILL",
+   "target": "NLP"
+  },
+  {
+   "source": "FORUM KASHYAP",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "FORUM KASHYAP",
+   "relation": "USED_SKILL",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "FORUM KASHYAP",
+   "relation": "USED_SKILL",
+   "target": "AWS"
+  }
+ ]
+}

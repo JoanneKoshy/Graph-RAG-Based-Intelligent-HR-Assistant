@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_021",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Advaith Karpe",
+   "relation": "LED",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Atlas CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Python"
+  },
+  {
+   "source": "Atlas CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Java"
+  },
+  {
+   "source": "Atlas CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Manual Testing"
+  },
+  {
+   "source": "Atlas CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Test Automation"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Libni Tiwari",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Siya Shanker",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Januja Amble",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "RECOGNIZED_ON",
+   "target": "Atlas CRM Revamp"
+  },
+  {
+   "source": "Atlas CRM Revamp",
+   "relation": "HAS_RISK",
+   "target": "scope creep from late client requirements"
+  }
+ ]
+}

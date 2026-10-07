@@ -1,0 +1,18 @@
+DARIKA BAL
+Applying for: Software Engineer
+Email: darika.bal@mail.com | Ramgarh
+
+SUMMARY
+8 years of experience, most recently at Freshworks.
+
+SKILLS
+CI/CD, Go, TypeScript, Java
+
+EDUCATION
+MBA (HR), MITS Kochi
+
+EXPERIENCE
+- Freshworks: 8 years, focused on CI/CD and Go.
+
+ACHIEVEMENTS
+- Won a state-level hackathon.

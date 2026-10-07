@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Daksha Borah (ID 1137)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Daksha's performance this cycle was satisfactory.
+Daksha contributed to the Aurora Payment Gateway project for EduSpark, working closely with Henry Loke, Vaishnavi Chaudhari.
+Their work with Spring Boot on this project was adequate but needs more depth.
+Key strengths observed: teamwork and mentoring.
+Areas for improvement: deeper technical ownership and documentation.

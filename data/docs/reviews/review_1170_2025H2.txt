@@ -1,0 +1,9 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Gaurang Sachar (ID 1170)
+Designation: Senior QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Gaurang's performance this cycle was satisfactory.
+Key strengths observed: adaptability and mentoring.
+Gaurang has been mentoring Maya Setty, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

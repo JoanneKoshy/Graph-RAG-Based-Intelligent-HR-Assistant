@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C050",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Ganga Saran",
+   "relation": "WORKED_AT",
+   "target": "Infosys"
+  },
+  {
+   "source": "Ganga Saran",
+   "relation": "STUDIED_AT",
+   "target": "Anna University"
+  },
+  {
+   "source": "Ganga Saran",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "Ganga Saran",
+   "relation": "USED_SKILL",
+   "target": "AWS"
+  },
+  {
+   "source": "Ganga Saran",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "Ganga Saran",
+   "relation": "USED_SKILL",
+   "target": "Docker"
+  }
+ ]
+}

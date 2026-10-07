@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C046",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "DIPTA BARMAN",
+   "relation": "WORKED_AT",
+   "target": "Wipro"
+  },
+  {
+   "source": "DIPTA BARMAN",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "DIPTA BARMAN",
+   "relation": "USED_SKILL",
+   "target": "Performance Testing"
+  },
+  {
+   "source": "DIPTA BARMAN",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "DIPTA BARMAN",
+   "relation": "USED_SKILL",
+   "target": "CI/CD"
+  },
+  {
+   "source": "DIPTA BARMAN",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "DIPTA BARMAN",
+   "relation": "USED_SKILL",
+   "target": "Test Automation"
+  }
+ ]
+}

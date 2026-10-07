@@ -1,0 +1,46 @@
+{
+ "doc_id": "review_1028_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Rajata Gaba",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Echo Payment Gateway"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "COLLABORATED_WITH",
+   "target": "Zarna Anand"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "COLLABORATED_WITH",
+   "target": "Noah Bala"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "USED_SKILL",
+   "target": "AWS"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  },
+  {
+   "source": "Rajata Gaba",
+   "relation": "INTERESTED_IN",
+   "target": "Customer Support"
+  }
+ ]
+}

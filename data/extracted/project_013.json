@@ -1,0 +1,46 @@
+{
+ "doc_id": "project_013",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Harish Sharma",
+   "relation": "LED",
+   "target": "Helix Automation Suite"
+  },
+  {
+   "source": "Helix Automation Suite",
+   "relation": "PROJECT_USES",
+   "target": "SQL"
+  },
+  {
+   "source": "Helix Automation Suite",
+   "relation": "PROJECT_USES",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "Helix Automation Suite",
+   "relation": "PROJECT_USES",
+   "target": "Deep Learning"
+  },
+  {
+   "source": "Helix Automation Suite",
+   "relation": "PROJECT_USES",
+   "target": "Python"
+  },
+  {
+   "source": "Eesha Barman",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Automation Suite"
+  },
+  {
+   "source": "Eesha Barman",
+   "relation": "RECOGNIZED_ON",
+   "target": "Helix Automation Suite"
+  },
+  {
+   "source": "Helix Automation Suite",
+   "relation": "HAS_RISK",
+   "target": "data quality issues in the source systems"
+  }
+ ]
+}

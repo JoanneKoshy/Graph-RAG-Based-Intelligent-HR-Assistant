@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Balendra Bhargava (ID 1085)
+Designation: QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Balendra's performance this cycle was satisfactory.
+Balendra contributed to the Atlas CRM Revamp project for BlueWave Logistics, working closely with Advaith Karpe, Libni Tiwari.
+Their work with Selenium on this project was adequate but needs more depth.
+Key strengths observed: teamwork and client handling.
+Areas for improvement: deeper technical ownership and documentation.
+Note: Balendra has expressed interest in moving to the Finance team.

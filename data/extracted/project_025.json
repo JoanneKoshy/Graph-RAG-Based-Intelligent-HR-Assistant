@@ -1,0 +1,71 @@
+{
+ "doc_id": "project_025",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Bimala Garg",
+   "relation": "LED",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Atlas Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "AWS"
+  },
+  {
+   "source": "Atlas Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "Django"
+  },
+  {
+   "source": "Atlas Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "React"
+  },
+  {
+   "source": "Atlas Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "JavaScript"
+  },
+  {
+   "source": "Anya Aggarwal",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Ojas De",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Yashoda Buch",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Januja Amble",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Onveer Jani",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Liam Boase",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Anya Aggarwal",
+   "relation": "RECOGNIZED_ON",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Atlas Dashboard",
+   "relation": "HAS_RISK",
+   "target": "scope creep from late client requirements"
+  }
+ ]
+}

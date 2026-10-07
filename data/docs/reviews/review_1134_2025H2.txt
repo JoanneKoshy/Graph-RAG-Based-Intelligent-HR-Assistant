@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Mason Shankar (ID 1134)
+Designation: Data Analyst, Data Science
+Reviewer: Laksh Konda
+
+Overall, Mason's performance this cycle was below expectations.
+Mason contributed to the Zenith Chatbot project for EduSpark, working closely with Advika Chander, Ladli Apte.
+Their work with SQL on this project was adequate but needs more depth.
+Key strengths observed: client handling and mentoring.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

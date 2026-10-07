@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Atharv Chanda (ID 1153)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Atharv's performance this cycle was satisfactory.
+Atharv contributed to the Vega Dashboard project for MetroMart, working closely with Diya Radhakrishnan, Henry Krish.
+Their work with Docker on this project was adequate but needs more depth.
+Key strengths observed: communication and client handling.
+Areas for improvement: deeper technical ownership and documentation.

@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1179_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Jhalak Kapoor",
+   "relation": "MENTORS",
+   "target": "Balendra Bhargava"
+  },
+  {
+   "source": "Jhalak Kapoor",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Jhalak Kapoor",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  }
+ ]
+}

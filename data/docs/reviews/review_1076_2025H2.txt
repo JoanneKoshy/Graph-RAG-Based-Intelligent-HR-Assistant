@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Udyati Kakar (ID 1076)
+Designation: Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Udyati's performance this cycle was satisfactory.
+Udyati contributed to the Vega Dashboard project for MetroMart, working closely with Atharv Chanda, Diya Radhakrishnan.
+Their work with Deep Learning on this project was adequate but needs more depth.
+Key strengths observed: adaptability and communication.
+Areas for improvement: deeper technical ownership and documentation.

@@ -1,0 +1,9 @@
+PROJECT REPORT: Nimbus Automation Suite
+Client: EduSpark | Owning department: Data Science | Status: Ongoing
+Start date: 2025-12-09
+
+The Nimbus Automation Suite project is led by Aadhya Ramakrishnan. The technology stack includes AWS, Spark, Machine Learning, Tableau.
+Team members: Ladli Apte (Tester); Fitan Raghavan (Analyst); Aadhya Ramakrishnan (Project Lead); Nakul Bora (Developer); Reva Pant (Analyst).
+The project is currently about 31% complete.
+The main risk identified was data quality issues in the source systems.
+Special recognition goes to Nakul Bora for going beyond their assigned role.

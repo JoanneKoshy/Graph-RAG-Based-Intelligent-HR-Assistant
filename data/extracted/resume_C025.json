@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C025",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Ishanvi Salvi",
+   "relation": "WORKED_AT",
+   "target": "UST Global"
+  },
+  {
+   "source": "Ishanvi Salvi",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "Ishanvi Salvi",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Ishanvi Salvi",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "Ishanvi Salvi",
+   "relation": "USED_SKILL",
+   "target": "Employee Relations"
+  },
+  {
+   "source": "Ishanvi Salvi",
+   "relation": "USED_SKILL",
+   "target": "Recruitment"
+  }
+ ]
+}

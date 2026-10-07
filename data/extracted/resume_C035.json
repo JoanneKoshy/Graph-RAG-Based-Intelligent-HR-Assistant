@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C035",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Omisha Nazareth",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "Omisha Nazareth",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "Omisha Nazareth",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "Omisha Nazareth",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "Omisha Nazareth",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "Omisha Nazareth",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "Omisha Nazareth",
+   "relation": "WORKED_AT",
+   "target": "UST Global"
+  }
+ ]
+}

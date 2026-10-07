@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_002",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Krishna Baral",
+   "relation": "LED",
+   "target": "Nimbus Chatbot"
+  },
+  {
+   "source": "Nimbus Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "Negotiation"
+  },
+  {
+   "source": "Nimbus Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Nimbus Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "CRM"
+  },
+  {
+   "source": "Nimbus Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "Customer Service"
+  },
+  {
+   "source": "Chatura Kothari",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Chatbot"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Chatbot"
+  },
+  {
+   "source": "Ganga Dutta",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Chatbot"
+  },
+  {
+   "source": "Warda Kala",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Chatbot"
+  },
+  {
+   "source": "Krishna Baral",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Chatbot"
+  },
+  {
+   "source": "Warda Kala",
+   "relation": "RECOGNIZED_ON",
+   "target": "Nimbus Chatbot"
+  },
+  {
+   "source": "Nimbus Chatbot",
+   "relation": "HAS_RISK",
+   "target": "unstable test environments"
+  }
+ ]
+}

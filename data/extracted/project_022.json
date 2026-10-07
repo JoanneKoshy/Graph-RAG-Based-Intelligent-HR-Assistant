@@ -1,0 +1,61 @@
+{
+ "doc_id": "project_022",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Joshua Basu",
+   "relation": "LED",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Ganga Dutta",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Parth Mody",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Krisha Pingle",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Champak Chatterjee",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Joshua Basu",
+   "relation": "RECOGNIZED_ON",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Helix Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Negotiation"
+  },
+  {
+   "source": "Helix Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "CRM"
+  },
+  {
+   "source": "Helix Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Customer Service"
+  },
+  {
+   "source": "Helix Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Helix Mobile App",
+   "relation": "HAS_RISK",
+   "target": "data quality issues in the source systems"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Kashvi Lanka (ID 1132)
+Designation: Tech Lead, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Kashvi's performance this cycle was strong.
+Kashvi contributed to the Nova Mobile App project for MetroMart, working closely with Devika Chhabra, Vrinda Kapadia.
+Their work with FastAPI on this project was highly appreciated.
+Key strengths observed: teamwork and client handling.
+Recommendation: consider for additional responsibilities.

@@ -1,0 +1,41 @@
+{
+ "doc_id": "resume_C021",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "OLIVER NAGARAJAN",
+   "relation": "WORKED_AT",
+   "target": "UST Global"
+  },
+  {
+   "source": "OLIVER NAGARAJAN",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  },
+  {
+   "source": "OLIVER NAGARAJAN",
+   "relation": "USED_SKILL",
+   "target": "Test Automation"
+  },
+  {
+   "source": "OLIVER NAGARAJAN",
+   "relation": "USED_SKILL",
+   "target": "Selenium"
+  },
+  {
+   "source": "OLIVER NAGARAJAN",
+   "relation": "USED_SKILL",
+   "target": "Manual Testing"
+  },
+  {
+   "source": "OLIVER NAGARAJAN",
+   "relation": "USED_SKILL",
+   "target": "Performance Testing"
+  },
+  {
+   "source": "OLIVER NAGARAJAN",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  }
+ ]
+}

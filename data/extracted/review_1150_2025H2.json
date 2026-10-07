@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1150_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Onveer Jani",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Dashboard"
+  },
+  {
+   "source": "Onveer Jani",
+   "relation": "COLLABORATED_WITH",
+   "target": "Bimala Garg"
+  },
+  {
+   "source": "Onveer Jani",
+   "relation": "COLLABORATED_WITH",
+   "target": "Anya Aggarwal"
+  },
+  {
+   "source": "Onveer Jani",
+   "relation": "USED_SKILL",
+   "target": "Angular"
+  },
+  {
+   "source": "Onveer Jani",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Onveer Jani",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  }
+ ]
+}

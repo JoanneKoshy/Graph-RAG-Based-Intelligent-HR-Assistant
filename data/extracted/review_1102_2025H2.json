@@ -1,0 +1,16 @@
+{
+ "doc_id": "review_1102_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Vanya Dey",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Vanya Dey",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C036",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "Ucchal Krishnan",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "Ucchal Krishnan",
+   "relation": "USED_SKILL",
+   "target": "JavaScript"
+  },
+  {
+   "source": "Ucchal Krishnan",
+   "relation": "USED_SKILL",
+   "target": "TypeScript"
+  },
+  {
+   "source": "Ucchal Krishnan",
+   "relation": "USED_SKILL",
+   "target": "CI/CD"
+  },
+  {
+   "source": "Ucchal Krishnan",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "Ucchal Krishnan",
+   "relation": "WORKED_AT",
+   "target": "IBS Software"
+  }
+ ]
+}

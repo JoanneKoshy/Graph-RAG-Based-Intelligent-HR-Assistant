@@ -1,0 +1,9 @@
+PROJECT REPORT: Atlas Mobile App
+Client: GreenGrid Energy | Owning department: Marketing | Status: Ongoing
+Start date: 2025-03-25
+
+The Atlas Mobile App project is led by Nakul Rattan. The technology stack includes Data Analysis, Digital Marketing, Content Writing, SEO.
+Team members: Garima Kale (Developer); Devika Chhabra (Tester); Theodore Mittal (Contributor); Nakul Rattan (Project Lead); Udyati Bhatt (Reviewer); William Thakkar (Reviewer); Farhan Bhandari (Contributor).
+The project is currently about 21% complete.
+The main risk identified was unstable test environments.
+Special recognition goes to Garima Kale for going beyond their assigned role.

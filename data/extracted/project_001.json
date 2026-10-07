@@ -1,0 +1,71 @@
+{
+ "doc_id": "project_001",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Chavvi Bhat",
+   "relation": "LED",
+   "target": "Orion Payment Gateway"
+  },
+  {
+   "source": "Orion Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Manual Testing"
+  },
+  {
+   "source": "Orion Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Python"
+  },
+  {
+   "source": "Orion Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Java"
+  },
+  {
+   "source": "Orion Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Test Automation"
+  },
+  {
+   "source": "Reva Pant",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Orion Payment Gateway"
+  },
+  {
+   "source": "Maya Setty",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Orion Payment Gateway"
+  },
+  {
+   "source": "Jyoti Bir",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Orion Payment Gateway"
+  },
+  {
+   "source": "Samar Gupta",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Orion Payment Gateway"
+  },
+  {
+   "source": "Harish Sharma",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Orion Payment Gateway"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Orion Payment Gateway"
+  },
+  {
+   "source": "Harish Sharma",
+   "relation": "RECOGNIZED_ON",
+   "target": "Orion Payment Gateway"
+  },
+  {
+   "source": "Orion Payment Gateway",
+   "relation": "HAS_RISK",
+   "target": "shortage of senior reviewers"
+  }
+ ]
+}

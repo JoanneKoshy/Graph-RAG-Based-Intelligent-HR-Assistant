@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C038",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "JASMIT BISWAS",
+   "relation": "WORKED_AT",
+   "target": "UST Global"
+  },
+  {
+   "source": "JASMIT BISWAS",
+   "relation": "STUDIED_AT",
+   "target": "VIT Vellore"
+  },
+  {
+   "source": "JASMIT BISWAS",
+   "relation": "USED_SKILL",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "JASMIT BISWAS",
+   "relation": "USED_SKILL",
+   "target": "Python"
+  },
+  {
+   "source": "JASMIT BISWAS",
+   "relation": "USED_SKILL",
+   "target": "NLP"
+  },
+  {
+   "source": "JASMIT BISWAS",
+   "relation": "USED_SKILL",
+   "target": "AWS"
+  }
+ ]
+}

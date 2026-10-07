@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C018",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "KAI KOTA",
+   "relation": "WORKED_AT",
+   "target": "UST Global"
+  },
+  {
+   "source": "KAI KOTA",
+   "relation": "STUDIED_AT",
+   "target": "NIT Calicut"
+  },
+  {
+   "source": "KAI KOTA",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "KAI KOTA",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "KAI KOTA",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "KAI KOTA",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  }
+ ]
+}

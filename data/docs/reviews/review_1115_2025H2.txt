@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Libni Sha (ID 1115)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Libni's performance this cycle was satisfactory.
+Libni contributed to the Atlas Portal project for GreenGrid Energy, working closely with Advik Hans, Ojas De.
+Their work with Azure on this project was adequate but needs more depth.
+Key strengths observed: mentoring and client handling.
+Areas for improvement: deeper technical ownership and documentation.

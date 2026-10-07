@@ -1,0 +1,9 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Jhalak Kapoor (ID 1179)
+Designation: Senior QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Jhalak's performance this cycle was satisfactory.
+Key strengths observed: client handling and problem solving.
+Jhalak has been mentoring Balendra Bhargava, who has shown clear improvement as a result.
+Areas for improvement: deeper technical ownership and documentation.

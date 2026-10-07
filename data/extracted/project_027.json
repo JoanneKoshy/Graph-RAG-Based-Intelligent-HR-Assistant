@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_027",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Chavvi Bhat",
+   "relation": "LED",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Phoenix CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Selenium"
+  },
+  {
+   "source": "Phoenix CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Manual Testing"
+  },
+  {
+   "source": "Phoenix CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Performance Testing"
+  },
+  {
+   "source": "Phoenix CRM Revamp",
+   "relation": "PROJECT_USES",
+   "target": "Python"
+  },
+  {
+   "source": "Yashodhara D\u2019Alia",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Upasna Pandya",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Libni Tiwari",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Upkaar Dara",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Hredhaan Toor",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Chavvi Bhat",
+   "relation": "RECOGNIZED_ON",
+   "target": "Phoenix CRM Revamp"
+  },
+  {
+   "source": "Phoenix CRM Revamp",
+   "relation": "HAS_RISK",
+   "target": "data quality issues in the source systems"
+  }
+ ]
+}

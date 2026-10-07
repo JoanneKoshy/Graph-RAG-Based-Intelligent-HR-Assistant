@@ -1,0 +1,61 @@
+{
+ "doc_id": "project_019",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Kashvi Lanka",
+   "relation": "LED",
+   "target": "Zenith Chatbot"
+  },
+  {
+   "source": "Zenith Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "Machine Learning"
+  },
+  {
+   "source": "Zenith Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "AWS"
+  },
+  {
+   "source": "Zenith Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "SQL"
+  },
+  {
+   "source": "Zenith Chatbot",
+   "relation": "PROJECT_USES",
+   "target": "NLP"
+  },
+  {
+   "source": "Advika Chander",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Chatbot"
+  },
+  {
+   "source": "Mason Shankar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Chatbot"
+  },
+  {
+   "source": "Ladli Apte",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Chatbot"
+  },
+  {
+   "source": "Balendra Bhargava",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Chatbot"
+  },
+  {
+   "source": "Kashvi Lanka",
+   "relation": "RECOGNIZED_ON",
+   "target": "Zenith Chatbot"
+  },
+  {
+   "source": "Zenith Chatbot",
+   "relation": "HAS_RISK",
+   "target": "shortage of senior reviewers"
+  }
+ ]
+}

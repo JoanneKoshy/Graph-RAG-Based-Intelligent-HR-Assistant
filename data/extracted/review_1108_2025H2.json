@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1108_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Advika Chander",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Chatbot"
+  },
+  {
+   "source": "Advika Chander",
+   "relation": "COLLABORATED_WITH",
+   "target": "Mason Shankar"
+  },
+  {
+   "source": "Advika Chander",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ladli Apte"
+  },
+  {
+   "source": "Advika Chander",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Advika Chander",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Advika Chander",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "time management"
+  },
+  {
+   "source": "Advika Chander",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_024",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Krishna Kar",
+   "relation": "LED",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Daksha Borah",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Henry Loke",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Vaishnavi Chaudhari",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Noah Bala",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Krishna Kar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Henry Loke",
+   "relation": "RECOGNIZED_ON",
+   "target": "Aurora Payment Gateway"
+  },
+  {
+   "source": "Aurora Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Azure"
+  },
+  {
+   "source": "Aurora Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Go"
+  },
+  {
+   "source": "Aurora Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Node.js"
+  },
+  {
+   "source": "Aurora Payment Gateway",
+   "relation": "PROJECT_USES",
+   "target": "Spring Boot"
+  },
+  {
+   "source": "Aurora Payment Gateway",
+   "relation": "HAS_RISK",
+   "target": "scope creep from late client requirements"
+  }
+ ]
+}

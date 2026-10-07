@@ -1,0 +1,36 @@
+{
+ "doc_id": "review_1122_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "William Thakkar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Atlas Mobile App"
+  },
+  {
+   "source": "William Thakkar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Garima Kale"
+  },
+  {
+   "source": "William Thakkar",
+   "relation": "COLLABORATED_WITH",
+   "target": "Devika Chhabra"
+  },
+  {
+   "source": "William Thakkar",
+   "relation": "MENTORS",
+   "target": "Sudiksha Narasimhan"
+  },
+  {
+   "source": "William Thakkar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "William Thakkar",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  }
+ ]
+}

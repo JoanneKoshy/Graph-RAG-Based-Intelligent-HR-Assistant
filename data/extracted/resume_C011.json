@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C011",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "GUNBIR RAJAGOPALAN",
+   "relation": "LED",
+   "target": "college project"
+  },
+  {
+   "source": "GUNBIR RAJAGOPALAN",
+   "relation": "WORKED_AT",
+   "target": "a Kochi-based startup"
+  },
+  {
+   "source": "GUNBIR RAJAGOPALAN",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "GUNBIR RAJAGOPALAN",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "GUNBIR RAJAGOPALAN",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "GUNBIR RAJAGOPALAN",
+   "relation": "STUDIED_AT",
+   "target": "CUSAT"
+  }
+ ]
+}

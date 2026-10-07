@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Falak Sani (ID 1162)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Falak's performance this cycle was below expectations.
+Falak contributed to the Atlas Portal project for GreenGrid Energy, working closely with Advik Hans, Ojas De.
+Their work with Angular on this project was adequate but needs more depth.
+Key strengths observed: client handling and time management.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.

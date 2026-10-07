@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Rajata Gaba (ID 1028)
+Designation: Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Rajata's performance this cycle was below expectations.
+Rajata contributed to the Echo Payment Gateway project for MetroMart, working closely with Zarna Anand, Noah Bala.
+Their work with AWS on this project was adequate but needs more depth.
+Key strengths observed: mentoring and teamwork.
+Areas for improvement: meeting deadlines and proactive communication. A performance improvement plan is recommended.
+Note: Rajata has expressed interest in moving to the Customer Support team.

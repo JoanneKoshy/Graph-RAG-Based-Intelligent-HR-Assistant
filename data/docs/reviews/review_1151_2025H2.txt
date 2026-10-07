@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Libni Tiwari (ID 1151)
+Designation: QA Engineer, Quality Assurance
+Reviewer: Isaac Dewan
+
+Overall, Libni's performance this cycle was satisfactory.
+Libni contributed to the Phoenix CRM Revamp project for GreenGrid Energy, working closely with Yashodhara D’Alia, Upasna Pandya.
+Their work with Performance Testing on this project was adequate but needs more depth.
+Key strengths observed: client handling and communication.
+Areas for improvement: deeper technical ownership and documentation.

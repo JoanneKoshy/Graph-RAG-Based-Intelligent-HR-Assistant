@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Noah Bala (ID 1185)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Noah's performance this cycle was strong.
+Noah contributed to the Aurora Payment Gateway project for EduSpark, working closely with Daksha Borah, Henry Loke.
+Their work with TypeScript on this project was highly appreciated.
+Key strengths observed: time management and adaptability.
+Recommendation: consider for additional responsibilities.

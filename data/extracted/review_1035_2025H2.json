@@ -1,0 +1,21 @@
+{
+ "doc_id": "review_1035_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Omaja Bhalla",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Omaja Bhalla",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Omaja Bhalla",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Performance Improvement Plan"
+  }
+ ]
+}

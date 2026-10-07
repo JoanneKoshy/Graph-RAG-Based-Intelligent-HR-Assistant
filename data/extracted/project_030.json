@@ -1,0 +1,61 @@
+{
+ "doc_id": "project_030",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Henry Krish",
+   "relation": "LED",
+   "target": "Vega Dashboard"
+  },
+  {
+   "source": "Vega Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "Java"
+  },
+  {
+   "source": "Vega Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "Node.js"
+  },
+  {
+   "source": "Vega Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "Angular"
+  },
+  {
+   "source": "Vega Dashboard",
+   "relation": "PROJECT_USES",
+   "target": "Python"
+  },
+  {
+   "source": "Atharv Chanda",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Dashboard"
+  },
+  {
+   "source": "Diya Radhakrishnan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Dashboard"
+  },
+  {
+   "source": "Radhika Mohanty",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Dashboard"
+  },
+  {
+   "source": "Udyati Kakar",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Dashboard"
+  },
+  {
+   "source": "Vega Dashboard",
+   "relation": "HAS_RISK",
+   "target": "integration delays with a third-party API"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "RECOGNIZED_ON",
+   "target": "Vega Dashboard"
+  }
+ ]
+}

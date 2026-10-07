@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_004",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Reyansh Gupta",
+   "relation": "LED",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Reyansh Gupta",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Reva Pant",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Yatin Chand",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Maya Setty",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Upasna Boase",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Yatin Chand",
+   "relation": "RECOGNIZED_ON",
+   "target": "Zenith Data Lake"
+  },
+  {
+   "source": "Zenith Data Lake",
+   "relation": "PROJECT_USES",
+   "target": "CI/CD"
+  },
+  {
+   "source": "Zenith Data Lake",
+   "relation": "PROJECT_USES",
+   "target": "Selenium"
+  },
+  {
+   "source": "Zenith Data Lake",
+   "relation": "PROJECT_USES",
+   "target": "Manual Testing"
+  },
+  {
+   "source": "Zenith Data Lake",
+   "relation": "PROJECT_USES",
+   "target": "Java"
+  },
+  {
+   "source": "Zenith Data Lake",
+   "relation": "HAS_RISK",
+   "target": "integration delays with a third-party API"
+  }
+ ]
+}

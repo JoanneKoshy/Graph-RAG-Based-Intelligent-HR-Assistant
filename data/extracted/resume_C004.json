@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C004",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "AACHAL MODI",
+   "relation": "WORKED_AT",
+   "target": "TCS"
+  },
+  {
+   "source": "AACHAL MODI",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "AACHAL MODI",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "AACHAL MODI",
+   "relation": "USED_SKILL",
+   "target": "Payroll Processing"
+  },
+  {
+   "source": "AACHAL MODI",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "AACHAL MODI",
+   "relation": "STUDIED_AT",
+   "target": "MITS Kochi"
+  }
+ ]
+}

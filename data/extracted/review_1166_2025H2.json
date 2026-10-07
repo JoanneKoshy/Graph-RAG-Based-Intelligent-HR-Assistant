@@ -1,0 +1,51 @@
+{
+ "doc_id": "review_1166_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Henry Krish",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Vega Dashboard"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "COLLABORATED_WITH",
+   "target": "Atharv Chanda"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "COLLABORATED_WITH",
+   "target": "Diya Radhakrishnan"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "USED_SKILL",
+   "target": "JavaScript"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "client handling"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "MENTORS",
+   "target": "Jyoti Balay"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Promotion"
+  },
+  {
+   "source": "Henry Krish",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

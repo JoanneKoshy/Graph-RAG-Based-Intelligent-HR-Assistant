@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1014_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Garima Kale",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Chatbot"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "COLLABORATED_WITH",
+   "target": "Vrinda Kapadia"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "COLLABORATED_WITH",
+   "target": "Urmi Agarwal"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "USED_SKILL",
+   "target": "Digital Marketing"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "problem solving"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Garima Kale",
+   "relation": "INTERESTED_IN",
+   "target": "Customer Support"
+  }
+ ]
+}

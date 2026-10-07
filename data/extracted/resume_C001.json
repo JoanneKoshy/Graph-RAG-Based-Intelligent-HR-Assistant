@@ -1,0 +1,31 @@
+{
+ "doc_id": "resume_C001",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "SAMARTH NARAIN",
+   "relation": "WORKED_AT",
+   "target": "a Kochi-based startup"
+  },
+  {
+   "source": "SAMARTH NARAIN",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "SAMARTH NARAIN",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  },
+  {
+   "source": "SAMARTH NARAIN",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "SAMARTH NARAIN",
+   "relation": "STUDIED_AT",
+   "target": "NIT Calicut"
+  }
+ ]
+}

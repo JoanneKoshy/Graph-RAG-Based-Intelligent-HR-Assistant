@@ -1,0 +1,10 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Januja Devi (ID 1046)
+Designation: Data Scientist, Data Science
+Reviewer: Laksh Konda
+
+Overall, Januja's performance this cycle was strong.
+Januja contributed to the Atlas Data Lake project for Internal, working closely with Ganga Prakash, Widisha Dubey.
+Their work with Machine Learning on this project was highly appreciated.
+Key strengths observed: client handling and mentoring.
+Recommendation: consider for additional responsibilities.

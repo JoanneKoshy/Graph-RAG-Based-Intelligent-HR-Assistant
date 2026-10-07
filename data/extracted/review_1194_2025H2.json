@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1194_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Urmi Agarwal",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Aurora Chatbot"
+  },
+  {
+   "source": "Urmi Agarwal",
+   "relation": "COLLABORATED_WITH",
+   "target": "Vrinda Kapadia"
+  },
+  {
+   "source": "Urmi Agarwal",
+   "relation": "COLLABORATED_WITH",
+   "target": "Garima Kale"
+  },
+  {
+   "source": "Urmi Agarwal",
+   "relation": "MENTORS",
+   "target": "Xavier Kala"
+  },
+  {
+   "source": "Urmi Agarwal",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Urmi Agarwal",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  },
+  {
+   "source": "Urmi Agarwal",
+   "relation": "INTERESTED_IN",
+   "target": "Engineering"
+  }
+ ]
+}

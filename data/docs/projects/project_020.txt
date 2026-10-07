@@ -1,0 +1,9 @@
+PROJECT REPORT: Echo Analytics Platform
+Client: MetroMart | Owning department: Engineering | Status: Ongoing
+Start date: 2024-01-26
+
+The Echo Analytics Platform project is led by Kritika Loke. The technology stack includes Kubernetes, C++, SQL, Go.
+Team members: Januja Amble (Developer); Jyoti Balay (Tester); Henry Loke (Developer); Zarna Anand (Developer); Kritika Loke (Project Lead); Ganga Prakash (Tester).
+The project is currently about 38% complete.
+The main risk identified was scope creep from late client requirements.
+Special recognition goes to Kritika Loke for going beyond their assigned role.

@@ -1,0 +1,66 @@
+{
+ "doc_id": "project_018",
+ "type": "project",
+ "triples": [
+  {
+   "source": "Aadhya Ramakrishnan",
+   "relation": "LED",
+   "target": "Nimbus Mobile App"
+  },
+  {
+   "source": "Nimbus Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "CI/CD"
+  },
+  {
+   "source": "Nimbus Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Django"
+  },
+  {
+   "source": "Nimbus Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Azure"
+  },
+  {
+   "source": "Nimbus Mobile App",
+   "relation": "PROJECT_USES",
+   "target": "Spring Boot"
+  },
+  {
+   "source": "Zarna Anand",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Mobile App"
+  },
+  {
+   "source": "Edhitha Dave",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Mobile App"
+  },
+  {
+   "source": "Atharv Chanda",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Mobile App"
+  },
+  {
+   "source": "Luke Sampath",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Mobile App"
+  },
+  {
+   "source": "Aadhya Ramakrishnan",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Nimbus Mobile App"
+  },
+  {
+   "source": "Nimbus Mobile App",
+   "relation": "HAS_RISK",
+   "target": "integration delays with a third-party API"
+  },
+  {
+   "source": "Luke Sampath",
+   "relation": "RECOGNIZED_ON",
+   "target": "Nimbus Mobile App"
+  }
+ ]
+}

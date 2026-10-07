@@ -1,0 +1,31 @@
+{
+ "doc_id": "review_1049_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Ganga Dutta",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Ganga Dutta",
+   "relation": "COLLABORATED_WITH",
+   "target": "Parth Mody"
+  },
+  {
+   "source": "Ganga Dutta",
+   "relation": "COLLABORATED_WITH",
+   "target": "Krisha Pingle"
+  },
+  {
+   "source": "Ganga Dutta",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Ganga Dutta",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "mentoring"
+  }
+ ]
+}

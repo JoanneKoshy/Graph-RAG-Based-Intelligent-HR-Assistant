@@ -1,0 +1,41 @@
+{
+ "doc_id": "review_1178_2025H2",
+ "type": "review",
+ "triples": [
+  {
+   "source": "Parth Mody",
+   "relation": "CONTRIBUTED_TO",
+   "target": "Helix Mobile App"
+  },
+  {
+   "source": "Parth Mody",
+   "relation": "COLLABORATED_WITH",
+   "target": "Ganga Dutta"
+  },
+  {
+   "source": "Parth Mody",
+   "relation": "COLLABORATED_WITH",
+   "target": "Krisha Pingle"
+  },
+  {
+   "source": "Parth Mody",
+   "relation": "USED_SKILL",
+   "target": "Data Analysis"
+  },
+  {
+   "source": "Parth Mody",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "teamwork"
+  },
+  {
+   "source": "Parth Mody",
+   "relation": "HAS_SOFT_SKILL",
+   "target": "leadership"
+  },
+  {
+   "source": "Parth Mody",
+   "relation": "RECOMMENDED_FOR",
+   "target": "Additional Responsibilities"
+  }
+ ]
+}

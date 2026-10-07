@@ -1,0 +1,11 @@
+PERFORMANCE REVIEW - 2025-H2
+Employee: Henry Krish (ID 1166)
+Designation: Senior Software Engineer, Engineering
+Reviewer: Daksh Bakshi
+
+Overall, Henry's performance this cycle was outstanding.
+Henry contributed to the Vega Dashboard project for MetroMart, working closely with Atharv Chanda, Diya Radhakrishnan.
+Their work with JavaScript on this project was highly appreciated.
+Key strengths observed: client handling and leadership.
+Henry has been mentoring Jyoti Balay, who has shown clear improvement as a result.
+Recommendation: consider for additional responsibilities and promotion in the next cycle.

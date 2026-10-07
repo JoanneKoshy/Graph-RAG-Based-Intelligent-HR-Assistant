@@ -1,0 +1,36 @@
+{
+ "doc_id": "resume_C039",
+ "type": "resume",
+ "triples": [
+  {
+   "source": "KRISHNA IYENGAR",
+   "relation": "WORKED_AT",
+   "target": "a Kochi-based startup"
+  },
+  {
+   "source": "KRISHNA IYENGAR",
+   "relation": "STUDIED_AT",
+   "target": "Anna University"
+  },
+  {
+   "source": "KRISHNA IYENGAR",
+   "relation": "USED_SKILL",
+   "target": "Financial Analysis"
+  },
+  {
+   "source": "KRISHNA IYENGAR",
+   "relation": "USED_SKILL",
+   "target": "Accounting"
+  },
+  {
+   "source": "KRISHNA IYENGAR",
+   "relation": "USED_SKILL",
+   "target": "Power BI"
+  },
+  {
+   "source": "KRISHNA IYENGAR",
+   "relation": "USED_SKILL",
+   "target": "SQL"
+  }
+ ]
+}
