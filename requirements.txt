@@ -4,3 +4,5 @@ psycopg[binary]
 neo4j
 groq
 fastembed
+fastapi
+uvicorn[standard]
